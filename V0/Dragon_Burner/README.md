@@ -27,6 +27,8 @@ NOTE: This is a Work In Progress and so CAD files will not be available until fu
 
 - Use the Voron defaults and print in ABS or better. The part is orientated correctly in the STL.
 
+Note: You may lose 1-2mm on the Y axis with this mount, otherwise it may tap the printer door
+
 ## BOM:
 
 In addition to the [MiniAfterSherpa](https://github.com/KurioHonoo/Mini-AfterSherpa) and the [SlideSwipe magnetic probe](https://github.com/chestwood96/SlideSwipe) BOMs:
