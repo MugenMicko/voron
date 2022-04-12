@@ -23,7 +23,7 @@ NOTE: This is a Work In Progress and so CAD files will not be available until fu
 - Add support for other hotends
 - Add support for other Klicky variants
 
-## Print:
+## Printing:
 
 - Use the Voron defaults and print in ABS or better. The part is orientated correctly in the STL.
 
@@ -39,7 +39,7 @@ In addition to the [MiniAfterSherpa](https://github.com/KurioHonoo/Mini-AfterShe
 - 2x 4010 blower fans (24v recommended)
 - 1x 3010 hotend fan (24v recommended)
 
-# Fans:
+## Fans:
 
 I am using these fans:
 
