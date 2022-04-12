@@ -15,7 +15,7 @@ Goals:
 
 These have all been implemented in this public release.
 
-NOTE: This is a Word In Progress and so CAD files will not be available until full release
+NOTE: This is a Work In Progress and so CAD files will not be available until full release
 
 Additional Goals:
 
