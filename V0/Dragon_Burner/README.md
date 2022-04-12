@@ -53,3 +53,7 @@ In addition to the [MiniAfterSherpa](https://github.com/KurioHonoo/Mini-AfterShe
 - Offer the hotend up to the toolhead mount and secure being careful not to trap any of the cables
 - Check the X and Y movement still triggers the end-stops
 - Check you have modified all the fan connections on the MCU if you have switched to higher voltage fans
+
+## Changelog:
+
+- 2022-04-12 First release
