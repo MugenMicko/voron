@@ -3,7 +3,7 @@ This is my take on the Voron V0.1 toolhead. I wanted to improve the cooling of t
 
 It is based on the [MiniAfterSherpa](https://github.com/KurioHonoo/Mini-AfterSherpa), but I've designed it anew from the ground up.
 
-![Dragon Burner](./images/Dragon_Burner.jpg)
+![Dragon Burner](images/Dragon_Burner.jpg)
 
 ## Goals:
 
