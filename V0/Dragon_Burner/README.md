@@ -29,15 +29,22 @@ NOTE: This is a Work In Progress and so CAD files will not be available until fu
 
 ## BOM:
 
-In addition to the [MiniAfterSherpa](https://github.com/KurioHonoo/Mini-AfterSherpa) and the [SlideSwipe magnetic probe](https://github.com/chestwood96/SlideSwipe):
+In addition to the [MiniAfterSherpa](https://github.com/KurioHonoo/Mini-AfterSherpa) and the [SlideSwipe magnetic probe](https://github.com/chestwood96/SlideSwipe) BOMs:
 
 - 2x additional heat inserts (for ADXL345 mount)
 - 2x M3x12mm BHCS (for hotend fan)
 - 2x M3x8mm BHCS (for ADXL mount)
 - 2x M2x10mm self tapping screws (for blower fans)
-- 2x M2x8mm BHCS screws and nuts (to mount ADXL)
+- 2x M2x8mm BHCS and nuts (to mount ADXL)
 - 2x 4010 blower fans (24v recommended)
 - 1x 3010 hotend fan (24v recommended)
+
+# Fans:
+
+I am using these fans:
+
+Hotend 24v Axial 3010: (E3D)[https://e3d-online.com/products/dc-fans]
+Part Cooling 24v Blower 4010: [Aliexpress](https://www.aliexpress.com/item/32798634077.html?spm=a2g0o.productlist.0.0.32d1313eGDqZx0&algo_pvid=46f192a9-033a-4df7-98da-0f0cb011945a)
 
 ## Build:
 
