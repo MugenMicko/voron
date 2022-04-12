@@ -43,8 +43,8 @@ In addition to the [MiniAfterSherpa](https://github.com/KurioHonoo/Mini-AfterShe
 
 I am using these fans:
 
-Hotend 24v Axial 3010: [e3d-online.com](https://e3d-online.com/products/dc-fans)
-Part Cooling 24v Blower 4010: [aliexpress.com](https://www.aliexpress.com/item/32798634077.html?spm=a2g0o.productlist.0.0.32d1313eGDqZx0&algo_pvid=46f192a9-033a-4df7-98da-0f0cb011945a)
+- Hotend 24v Axial 3010: [e3d-online.com](https://e3d-online.com/products/dc-fans)
+- Part Cooling 24v Blower 4010: [aliexpress.com](https://www.aliexpress.com/item/32798634077.html?spm=a2g0o.productlist.0.0.32d1313eGDqZx0&algo_pvid=46f192a9-033a-4df7-98da-0f0cb011945a)
 
 ## Build:
 
