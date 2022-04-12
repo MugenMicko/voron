@@ -49,7 +49,8 @@ I am using these fans:
 ## Build:
 
 - If you are using one of the Klicky variants, add the wires and magnets to the toolhead
-- There is a hole on the left face to put the left 4010 blower fan cable through, do this first
+- Add ADXL mount inserts to the lower outside left of the toolhead
+- There is a hole on the left face to put the left 4010 blower fan cable through, do this before going further
 - Insert the 3010 hotend fan and route both fan cables through the provided channel and secure the 3010 fan
 - Take care when screwing the hotend fan as it's secured into plastic and too much force will strip the created threads and/or deform the fan
 - Be careful not to leave the cables loose or over the hotend mount
