@@ -10,7 +10,7 @@ Goals:
 - Single 3010 24v hotend cooling fan
 - Twin 4010 24v blower part cooling fans
 - Support for the [SlideSwipe magnetic probe](https://github.com/chestwood96/SlideSwipe)
-- ADXL345 mount point
+- ADXL345 mount point and board mount
 
 These have all been implemented in this public release.
 
@@ -22,7 +22,9 @@ Additional Goals:
 - Add support for other hotends
 - Add support for other Klicky variants
 
-Printing: Use the Voron defaults and print in ABS or better. The part is orientated correctly in the STL.
+Print:
+
+- Use the Voron defaults and print in ABS or better. The part is orientated correctly in the STL.
 
 BOM:
 
@@ -36,7 +38,7 @@ In addition to the [MiniAfterSherpa](https://github.com/KurioHonoo/Mini-AfterShe
 - 2x 4010 blower fans (24v recommended)
 - 1x 3010 hotend fan (24v recommended)
 
-Building:
+Build:
 
 - If you are using one of the Klicky variants, add the wires and magnets to the toolhead
 - There is a hole on the left face to put the left 4010 blower fan cable through, do this first
