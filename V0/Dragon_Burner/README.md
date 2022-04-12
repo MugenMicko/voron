@@ -1,5 +1,5 @@
 # Dragon Burner
-![](https://https://github.com/waytotheweb/voron/blob/main/V0/Dragon_Burner/Images/Dragon_Burner.jpg)
+![Dragon Burner](https://https://github.com/waytotheweb/voron/blob/main/V0/Dragon_Burner/Images/Dragon_Burner.jpg)
 
 This is my take on the Voron V0.1 toolhead. I wanted to improve the cooling of the Dragon HF hotend and provide improved part cooling when printing filament that needs it (e.g. PLA).
 
