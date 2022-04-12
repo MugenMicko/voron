@@ -32,7 +32,7 @@ NOTE: This is a Work In Progress and so CAD files will not be available until fu
 In addition to the [MiniAfterSherpa](https://github.com/KurioHonoo/Mini-AfterSherpa) and the [SlideSwipe magnetic probe](https://github.com/chestwood96/SlideSwipe) BOMs:
 
 - 2x additional heat inserts (for ADXL345 mount)
-- 2x M3x12mm BHCS (for hotend fan)
+- 2x M3x16mm BHCS (for hotend fan)
 - 2x M3x8mm BHCS (for ADXL mount)
 - 2x M2x10mm self tapping screws (for blower fans)
 - 2x M2x8mm BHCS and nuts (to mount ADXL)
