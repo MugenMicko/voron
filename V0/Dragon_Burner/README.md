@@ -14,6 +14,8 @@ Goals:
 
 These have all been implemented in this public release.
 
+NOTE: This is a Word In Progress and so CAD files will not be available until full release
+
 Additional Goals:
 
 - Learn Fusion 360 so I can publish decent source CAD files (I've a way to go on this one, this work was done on TinkerCad)
