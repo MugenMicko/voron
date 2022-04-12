@@ -57,3 +57,7 @@ In addition to the [MiniAfterSherpa](https://github.com/KurioHonoo/Mini-AfterShe
 ## Changelog:
 
 - 2022-04-12 First release
+
+## Discord:
+
+[chirpy#2605](https://discordapp.com/users/chirpy#2605/)
