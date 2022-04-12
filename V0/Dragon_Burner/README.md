@@ -1,9 +1,9 @@
 # Dragon Burner
-![Dragon Burner](./images/Dragon_Burner.jpg)
-
 This is my take on the Voron V0.1 toolhead. I wanted to improve the cooling of the Dragon HF hotend and provide improved part cooling when printing filament that needs it (e.g. PLA).
 
 It is based on the [MiniAfterSherpa](https://github.com/KurioHonoo/Mini-AfterSherpa), but I've designed it anew from the ground up.
+
+![Dragon Burner](./images/Dragon_Burner.jpg)
 
 Goals:
 
