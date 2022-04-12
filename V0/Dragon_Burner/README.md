@@ -15,7 +15,7 @@ It uses the standard Voron X carriage, is based on the [Mini-AfterSherpa](https:
 
 These have all been implemented in this public release.
 
-NOTE: This is a Work In Progress and so CAD files will not be available until full release
+NOTE: This is a Work In Progress and so CAD files will not be available until full release (i.e. once I've learnt Fusion 360)
 
 ## Additional Goals:
 
