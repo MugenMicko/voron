@@ -5,7 +5,7 @@ It is based on the [MiniAfterSherpa](https://github.com/KurioHonoo/Mini-AfterShe
 
 ![Dragon Burner](./images/Dragon_Burner.jpg)
 
-##Goals:
+## Goals:
 
 - Dragon HF hotend support
 - Single 3010 24v hotend cooling fan
@@ -17,17 +17,17 @@ These have all been implemented in this public release.
 
 NOTE: This is a Work In Progress and so CAD files will not be available until full release
 
-##Additional Goals:
+## Additional Goals:
 
 - Learn Fusion 360 so I can publish decent source CAD files (I've a way to go on this one, this work was done on TinkerCad)
 - Add support for other hotends
 - Add support for other Klicky variants
 
-##Print:
+## Print:
 
 - Use the Voron defaults and print in ABS or better. The part is orientated correctly in the STL.
 
-##BOM:
+## BOM:
 
 In addition to the [MiniAfterSherpa](https://github.com/KurioHonoo/Mini-AfterSherpa) and the [SlideSwipe magnetic probe](https://github.com/chestwood96/SlideSwipe):
 
@@ -39,7 +39,7 @@ In addition to the [MiniAfterSherpa](https://github.com/KurioHonoo/Mini-AfterShe
 - 2x 4010 blower fans (24v recommended)
 - 1x 3010 hotend fan (24v recommended)
 
-##Build:
+## Build:
 
 - If you are using one of the Klicky variants, add the wires and magnets to the toolhead
 - There is a hole on the left face to put the left 4010 blower fan cable through, do this first
