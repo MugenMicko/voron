@@ -8,6 +8,8 @@ It uses the standard Voron X carriage, is based on the [Mini-AfterSherpa](https:
 ## Goals:
 
 - Dragon HF hotend support
+- Dragonfly hotend support
+- Rapido HF hotend support
 - Single 3010 24v hotend cooling fan
 - Twin 4010 24v blower part cooling fans
 - Support for the [SlideSwipe magnetic probe](https://github.com/chestwood96/SlideSwipe)
@@ -67,3 +69,6 @@ NOTE: You may lose 1-2mm on the Y axis with this mount, otherwise it may tap the
 ## Changelog:
 
 - 2022-04-12 First release
+             Fixed issue with incorrect part placement
+- 2022-04-13 Added mounts for the Dragonfly Hotend
+             Added mounts for the Rapido HF Hotend
