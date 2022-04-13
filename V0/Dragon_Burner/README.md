@@ -69,7 +69,7 @@ NOTE: You may lose 1-2mm on the Y axis with this mount, otherwise it may tap the
 ## Changelog:
 
 - 2022-04-12 First release
-             Fixed issue with incorrect part placement
+- 2022-04-12 Fixed issue with incorrect part placement
 - 2022-04-13 Added mounts for the Dragonfly Hotend
-             Added mounts for the Rapido HF Hotend
-	     Fixed clearance to socks on Rapido and Dragonfly
+- 2022-04-13 Added mounts for the Rapido HF Hotend
+- 2022-04-13 Fixed clearance to socks on Rapido and Dragonfly
