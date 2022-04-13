@@ -67,3 +67,4 @@ NOTE: You may lose 1-2mm on the Y axis with this mount, otherwise it may tap the
 ## Changelog:
 
 - 2022-04-12 First release
+- 2022-04-13 Fixed fillet on main body
