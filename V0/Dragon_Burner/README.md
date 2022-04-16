@@ -73,3 +73,5 @@ NOTE: You may lose 1-2mm on the Y axis with this mount, otherwise it may tap the
 - 2022-04-13 Added mounts for the Dragonfly Hotend
 - 2022-04-13 Added mounts for the Rapido HF Hotend
 - 2022-04-13 Fixed clearance to socks on Rapido and Dragonfly
+- 2022-04-16 Fixed misalignment of filament tube hole for Dragonfly
+- 2022-04-16 New ducts to improve airfly to nozzle
