@@ -14,6 +14,7 @@ It uses the standard Voron X carriage, is based on the [Mini-AfterSherpa](https:
 - Twin 4010 24v blower part cooling fans
 - Support for the [SlideSwipe magnetic probe](https://github.com/chestwood96/SlideSwipe)
 - ADXL345 mount point and board mount
+- Add heatsink thermistor
 
 These have all been implemented in this public release.
 
@@ -48,6 +49,17 @@ I am using these fans:
 - Hotend 24v Axial 3010: [e3d-online.com](https://e3d-online.com/products/dc-fans)
 - Part Cooling 24v Blower 4010: [aliexpress.com](https://www.aliexpress.com/item/32798634077.html?spm=a2g0o.productlist.0.0.32d1313eGDqZx0&algo_pvid=46f192a9-033a-4df7-98da-0f0cb011945a)
 
+## Heatsink Thermistor:
+
+Each cowl includes a hole at the top to insert a thermistor. With this in place touching the thermistor klipper can track the temperature of the heatsink to watch for heat creep in the heatbreak. This way, you can have klipper abort and shutdown before your whole toolhead melts! You only need a simple klipper entry for the appropriate pin on your MCU, e.g.:
+
+[temperature_sensor Heatbreak]
+sensor_type: Generic 3950
+sensor_pin: expander:PA5
+max_temp: 75
+
+With this klipper will shutdown if the top of the heatsink hits 75C (i.e. below the glass transition of ABS). I used thermal paste to help keep a bulb thermistor in contact with the heatsink and layed the wires through the provided groove, then fitted the extruder on top to hold it in place.
+
 ## Build:
 
 - If you are using one of the Klicky variants, add the wires and magnets to the toolhead
@@ -60,8 +72,10 @@ I am using these fans:
 - Secure each fan using a M2x10mm self tapping screw at the bottom front hole
 - Carefully mount the hotend into place making sure not to pinch any fan cables
 - Run the hotend and fan cables along the 10mm side of the 4010 fans on each side and zip tie at the top
-- Offer the hotend up to the toolhead mount and secure being careful not to trap any of the cables
-- Check the X and Y movement still triggers the end-stops
+- Fit the heatbreak thermistor if you are going to use one
+- Fit your extruder
+- Offer up to the toolhead mount and secure, being careful not to trap any of the cables
+- Check the X and Y movement still triggers the end-stops and that none of the cables are causing the belts to bind to the x axis
 - Check you have modified all the fan connections on the MCU if you have switched to higher voltage fans
 
 NOTE: You may lose 1-2mm on the Y axis with this mount, otherwise it may tap the printer door
@@ -74,4 +88,6 @@ NOTE: You may lose 1-2mm on the Y axis with this mount, otherwise it may tap the
 - 2022-04-13 Added mounts for the Rapido HF Hotend
 - 2022-04-13 Fixed clearance to socks on Rapido and Dragonfly
 - 2022-04-16 Fixed misalignment of filament tube hole for Dragonfly
-- 2022-04-16 New ducts to improve airfly to nozzle
+- 2022-04-16 New ducts improve airflow over nozzle
+- 2022-04-19 New ducts improve airflow direction
+- 2022-04-19 Added hole and wire groove for heatsink thermistor
