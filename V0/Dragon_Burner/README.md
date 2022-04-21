@@ -4,6 +4,7 @@ This is my take on the Voron V0.1 toolhead. I wanted to improve the cooling of t
 It uses the standard Voron X carriage, is based on the [Mini-AfterSherpa](https://github.com/KurioHonoo/Mini-AfterSherpa) and uses its extruder mounting system, but I've designed it from the ground up using TinkerCad :man_facepalming:
 
 ![Dragon Burner](images/Dragon_Burner.jpg)
+![Dragon Burner](images/Dragon_Burner2.jpg)
 
 ## Goals:
 
