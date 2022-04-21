@@ -61,7 +61,7 @@ sensor_pin: expander:PA5
 max_temp: 75
 ```
 
-With this klipper will shutdown if the top of the heatsink hits 75C (i.e. below the glass transition of ABS). I used thermal paste to help keep a bulb thermistor in contact with the heatsink and layed the wires through the provided groove, then fitted the extruder on top to hold it in place.
+With this, klipper will shutdown if the top of the heatsink hits 75C (i.e. below the glass transition of ABS). I used thermal paste to help keep a bulb thermistor in contact with the heatsink and layed the wires through the provided groove, then fitted the extruder on top to hold it in place.
 
 ## Assembly:
 
@@ -97,4 +97,4 @@ With this klipper will shutdown if the top of the heatsink hits 75C (i.e. below 
 - 2022-04-19 Added hole and wire groove for heatsink thermistor
 - 2022-04-21 Added Klicky variant support
 - 2022-04-21 Reorganised repo to separate hotends
-- 2022-04-21 Added screwless 3010 hotend fan option
+- 2022-04-21 Added screwless 3010 hotend fan mount
