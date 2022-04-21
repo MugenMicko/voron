@@ -14,7 +14,9 @@ It uses the standard Voron X carriage, is based on the [Mini-AfterSherpa](https:
 - Twin 4010 24v blower part cooling fans
 - Support for the [SlideSwipe magnetic probe](https://github.com/chestwood96/SlideSwipe)
 - ADXL345 mount point and board mount
-- Add heatsink thermistor
+- Heatsink thermistor support
+- Klicky probe support
+- Screwless hotend fan attachment
 
 These have all been implemented in this public release.
 
@@ -24,7 +26,6 @@ NOTE: This is a Work In Progress and so CAD files will not be available until fu
 
 - Learn Fusion 360 so I can publish decent source CAD files (I've a way to go on this one, this work was done on TinkerCad)
 - Add support for other hotends
-- Add support for other Klicky variants
 
 ## Printing:
 
@@ -53,19 +54,22 @@ I am using these fans:
 
 Each cowl includes a hole at the top to insert a thermistor. With this in place touching the thermistor klipper can track the temperature of the heatsink to watch for heat creep in the heatbreak. This way, you can have klipper abort and shutdown before your whole toolhead melts! You only need a simple klipper entry for the appropriate pin on your MCU, e.g.:
 
+```
 [temperature_sensor Heatbreak]
 sensor_type: Generic 3950
 sensor_pin: expander:PA5
 max_temp: 75
+```
 
 With this klipper will shutdown if the top of the heatsink hits 75C (i.e. below the glass transition of ABS). I used thermal paste to help keep a bulb thermistor in contact with the heatsink and layed the wires through the provided groove, then fitted the extruder on top to hold it in place.
 
-## Build:
+## Assembly:
 
 - If you are using one of the Klicky variants, add the wires and magnets to the toolhead
 - Add ADXL mount inserts to the lower outside left of the toolhead
 - There is a hole on the left face to put the left 4010 blower fan cable through, do this before going further
-- Insert the 3010 hotend fan and route both fan cables through the provided channel and secure the 3010 fan
+- Insert the 3010 hotend fan and route both fan cables through the provided channel
+- Secure the 3010 fan either using the fan nubs[*], or use 2 FHCS (the fan will need to be chamfered) or BHCS screws
 - Take care when screwing the hotend fan as it's secured into plastic and too much force will strip the created threads and/or deform the fan
 - Be careful not to leave the cables loose or over the hotend mount
 - Insert the 4010 fans into each side and slide backwards into the restraints
@@ -78,7 +82,7 @@ With this klipper will shutdown if the top of the heatsink hits 75C (i.e. below 
 - Check the X and Y movement still triggers the end-stops and that none of the cables are causing the belts to bind to the x axis
 - Check you have modified all the fan connections on the MCU if you have switched to higher voltage fans
 
-NOTE: You may lose 1-2mm on the Y axis with this mount, otherwise it may tap the printer door
+[*] NOTE: You may lose 1-2mm on the Y axis when using BHCS screws. To reclaim most of that loss, instead use the fan nubs. These are inserted after placing the 3010 fan into the housing from the sides with the domes pointing inwards. The 4010 fans will then hold these in place. If you need to remove the 3010 fan, remove the 4010 fans first, then carefully screw in a short M3 screw into the holes in the centre of the nubs to extract. If either the 3010 fan does not have indents or if it rattles, then you will have to use 2 screws instead to secure the fan. You can use BHCS screws, or to regain some of the Y loss, use FHCS screws. You can then chamfer the insides of the top two fan screw holes to allow the FHCS screws to be flush against the fan and cowl.
 
 ## Changelog:
 
@@ -91,3 +95,6 @@ NOTE: You may lose 1-2mm on the Y axis with this mount, otherwise it may tap the
 - 2022-04-16 New ducts improve airflow over nozzle
 - 2022-04-19 New ducts improve airflow direction
 - 2022-04-19 Added hole and wire groove for heatsink thermistor
+- 2022-04-21 Added Klicky variant support
+- 2022-04-21 Reorganised repo to separate hotends
+- 2022-04-21 Added screwless 3010 hotend fan option
