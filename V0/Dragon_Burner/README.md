@@ -9,6 +9,7 @@ It uses the standard Voron X carriage, is based on the [Mini-AfterSherpa](https:
 
 - Dragon HF hotend support
 - Dragonfly hotend support
+- E3D Revo Voron hotend support
 - Rapido HF hotend support (currently untested as I tossed my Rapido after it broke a while back)
 - Single 3010 24v hotend cooling fan
 - Twin 4010 24v blower part cooling fans
@@ -25,7 +26,6 @@ NOTE: This is a Work In Progress and so CAD files will not be available until fu
 ## Additional Goals:
 
 - Learn Fusion 360 so I can publish decent source CAD files (I've a way to go on this one, this work was done on TinkerCad)
-- Add support for other hotends
 
 ## Printing:
 
