@@ -10,7 +10,8 @@ It uses the standard Voron X carriage, is based on the [Mini-AfterSherpa](https:
 - Dragon HF hotend support
 - Dragonfly hotend support
 - E3D Revo Voron hotend support
-- Rapido HF hotend support (currently untested as I tossed my Rapido after it broke a while back)
+- Rapido HF hotend support
+- Rapido HF hotend support
 - Single 3010 24v hotend cooling fan
 - Twin 4010 24v blower part cooling fans
 - Support for the [SlideSwipe magnetic probe](https://github.com/chestwood96/SlideSwipe)
