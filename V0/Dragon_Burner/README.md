@@ -60,7 +60,7 @@ Each cowl includes a hole at the top to insert a thermistor. With this in place 
 [temperature_sensor Heatbreak]
 sensor_type: Generic 3950
 sensor_pin: expander:PA5
-max_temp: 75
+max_temp: 85
 ```
 
 With this, klipper will shutdown if the top of the heatsink hits 75C (i.e. below the glass transition of ABS). I used thermal paste to help keep a bulb thermistor in contact with the heatsink and layed the wires through the provided groove, then fitted the extruder on top to hold it in place.
