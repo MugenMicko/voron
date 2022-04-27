@@ -7,10 +7,9 @@ It uses the standard Voron X carriage, is based on the [Mini-AfterSherpa](https:
 
 ## Goals:
 
-- Dragon HF hotend support
+- Dragon SF and HF hotend support
 - Dragonfly hotend support
 - E3D Revo Voron hotend support
-- Rapido HF hotend support
 - Rapido HF hotend support
 - Single 3010 24v hotend cooling fan
 - Twin 4010 24v blower part cooling fans
