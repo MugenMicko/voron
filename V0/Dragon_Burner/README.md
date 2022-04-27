@@ -34,7 +34,7 @@ NOTE: This is a Work In Progress and so CAD files will not be available until fu
 
 ## BOM:
 
-In addition to the [Mini-AfterSherpa](https://github.com/KurioHonoo/Mini-AfterSherpa) and the [SlideSwipe magnetic probe](https://github.com/chestwood96/SlideSwipe) BOMs:
+In addition to the [Mini-AfterSherpa](https://github.com/KurioHonoo/Mini-AfterSherpa):
 
 - 2x additional heat inserts (for ADXL345 mount)
 - 2x M3x16mm BHCS (for hotend fan)
@@ -43,6 +43,8 @@ In addition to the [Mini-AfterSherpa](https://github.com/KurioHonoo/Mini-AfterSh
 - 2x M2x8mm BHCS and nuts (to mount ADXL)
 - 2x 4010 blower fans (24v recommended)
 - 1x 3010 hotend fan (24v recommended)
+
+The cowl supports a no probe setup, [SlideSwipe magnetic probe](https://github.com/chestwood96/SlideSwipe) and [UnKlicky magnetic probe](https://github.com/majarspeed/Unklicky)
 
 ## Fans:
 
