@@ -36,8 +36,8 @@ NOTE: This is a Work In Progress and CAD files will not be available until full 
 In addition to the [Mini-AfterSherpa](https://github.com/KurioHonoo/Mini-AfterSherpa):
 
 - 2x additional heat inserts (for ADXL345 mount)
-- 2x M3x16mm BHCS (for hotend fan)
-- 2x M3x8mm BHCS (for ADXL mount)
+- 2x M3x16mm BHCS (optional: for hotend fan)
+- 2x M3x8mm BHCS (for ADXL mount)[*]
 - 2x M2x10mm self tapping screws (for blower fans)
 - 2x M2x8mm BHCS and nuts (to mount ADXL)
 - 2x 4010 blower fans (24v recommended)
