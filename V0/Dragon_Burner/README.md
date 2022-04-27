@@ -34,7 +34,7 @@ NOTE: This is a Work In Progress and so CAD files will not be available until fu
 
 ## BOM:
 
-In addition to the [MiniAfterSherpa](https://github.com/KurioHonoo/Mini-AfterSherpa) and the [SlideSwipe magnetic probe](https://github.com/chestwood96/SlideSwipe) BOMs:
+In addition to the [Mini-AfterSherpa](https://github.com/KurioHonoo/Mini-AfterSherpa) and the [SlideSwipe magnetic probe](https://github.com/chestwood96/SlideSwipe) BOMs:
 
 - 2x additional heat inserts (for ADXL345 mount)
 - 2x M3x16mm BHCS (for hotend fan)
