@@ -13,10 +13,10 @@ It uses the standard Voron X carriage, is based on the [Mini-AfterSherpa](https:
 - Rapido HF hotend support
 - Single 3010 24v hotend cooling fan
 - Twin 4010 24v blower part cooling fans
-- Support for the [SlideSwipe magnetic probe](https://github.com/chestwood96/SlideSwipe)
+- [SlideSwipe magnetic probe](https://github.com/chestwood96/SlideSwipe) support
+- [(Un)Klicky Probe](https://github.com/jlas1/Klicky-Probe) support
 - ADXL345 mount point and board mount
 - Heatsink thermistor support
-- Klicky probe support
 - Screwless hotend fan attachment
 
 These have all been implemented in this public release.
