@@ -89,8 +89,8 @@ With this, klipper will shutdown if the top of the heatsink hits 75C (i.e. below
 
 - 2022-04-12 First release
 - 2022-04-12 Fixed issue with incorrect part placement
-- 2022-04-13 Added mounts for the Dragonfly Hotend
-- 2022-04-13 Added mounts for the Rapido HF Hotend
+- 2022-04-13 Added mounts for the Dragonfly hotend
+- 2022-04-13 Added mounts for the Rapido HF hotend
 - 2022-04-13 Fixed clearance to socks on Rapido and Dragonfly
 - 2022-04-16 Fixed misalignment of filament tube hole for Dragonfly
 - 2022-04-16 New ducts improve airflow over nozzle
@@ -99,3 +99,4 @@ With this, klipper will shutdown if the top of the heatsink hits 75C (i.e. below
 - 2022-04-21 Added Klicky variant support
 - 2022-04-21 Reorganised repo to separate hotends
 - 2022-04-21 Added screwless 3010 hotend fan mount
+- 2022-04-27 Added mounts for the E3D Revo Voron hotend
