@@ -54,7 +54,7 @@ I am using these fans:
 
 ## Heatsink Thermistor:
 
-Each cowl includes a hole at the top to insert a thermistor. With this in place touching the thermistor klipper can track the temperature of the heatsink to watch for heat creep in the heatbreak. This way, you can have klipper abort and shutdown before your whole toolhead melts! You only need a simple klipper entry for the appropriate pin on your MCU, e.g.:
+Each cowl includes a hole at the top to insert a thermistor. With this in place, klipper can track the temperature of the heatsink to watch for heat creep from the heatbreak. You can have klipper abort and shutdown before your whole toolhead melts! You only need a simple klipper entry for the appropriate pin on your MCU, e.g.:
 
 ```
 [temperature_sensor Heatbreak]
@@ -63,7 +63,7 @@ sensor_pin: expander:PA5
 max_temp: 85
 ```
 
-With this, klipper will shutdown if the top of the heatsink hits 75C (i.e. below the glass transition of ABS). I used thermal paste to help keep a bulb thermistor in contact with the heatsink and layed the wires through the provided groove, then fitted the extruder on top to hold it in place.
+Klipper will shutdown if the top of the heatsink hits 85C. You can use thermal paste to help keep a bulb thermistor in contact with the heatsink and layed the wires through the provided groove, then fitted the extruder on top to hold it in place.
 
 ## Assembly:
 
