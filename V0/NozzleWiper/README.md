@@ -133,9 +133,9 @@ Now edit printer.cfg and add an include line to the Macro section of your config
 
 Modify nozzlewiper.cfg "[servo wipeServo]" and set the correct pin that you attached the single wire for the servo to. For example, PA8 would be on the Neopixel, PC15 would be the E0-STOP.
 
-Now power on the printer. Once it has fully booted, you should see a list of new macros available all prefixed with "NOW".
+Now power on the printer. Once it has fully booted, you should see a list of new macros available all prefixed with "NW".
 
-Holding the nozzle wiper firmly in the hand by the extrusion mount, run the "NOW DEPLOY" macro. The arm should extend 90 degrees. Then run the "NOW RETRACT" macro and the arm should move to an almost straight position. It will not be completely straight as this helps prevent the arm+bucket from hitting the printers side panel.
+Holding the nozzle wiper firmly in the hand by the extrusion mount, run the "NW DEPLOY" macro. The arm should extend 90 degrees. Then run the "NW RETRACT" macro and the arm should move to an almost straight position. It will not be completely straight as this helps prevent the arm+bucket from hitting the printers side panel.
 
 Shutdown the printer.
 
