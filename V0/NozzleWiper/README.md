@@ -104,7 +104,6 @@ Slowly and carefully, manually extend and straighten the arm to ensure a full ra
 
 ![motion](images/fullyopen.jpg)
 
-
 ### Step 7 - Wiring
 
 Before permanently mounting the nozzle wiper to the printer test whether it works as expected by wiring the servo to the MCU from outside of the printer.
@@ -141,7 +140,11 @@ Shutdown the printer.
 
 ### Step 9 - Installation and Wiring
 
+![mounted](images/wireplacement.jpg)
+
 Fit the Nozzle Wiper arm to the left extrusion. This uses a push fit method. Line the mount up with the logo side to the extrusion. Feed the cable up into the groove on the inner section of extrusion and push the logo side into the extrusion and the push the other side into the inner section of extrusion. It should snap into place. You should be just about able to move the arm up and down in the extrusion.
+
+![mounted](images/mounted.jpg)
 
 If it is too loose, there are two holes in the logo side of the mount where you can insert 2 x M2x10mm self tapping screws. Inserting the screws here will expand the mount inside the rail to hold it in place. If you then need to move the arm up and down you will have to remove the self tapping screws completely.
 
