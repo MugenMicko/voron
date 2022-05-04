@@ -1,5 +1,5 @@
 # Nozzle Wiper
-This is a nozzle purge and wipe mod for the Voron V0.1.
+This is a nozzle purge and wipe mod for the Voron V0.1. It is based on the [SlideSwipe](https://github.com/chestwood96/SlideSwipe) magnetic probe by [chestwood96](https://github.com/chestwood96).
 
 It uses a snap in frame clip, that doesn't require screws, to attach a servo
 that extends a bucket and brush over the build plate for the hotend nozzle to
