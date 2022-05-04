@@ -107,7 +107,7 @@ Slowly and carefully, manually extend and straighten the arm to ensure a full ra
 
 ### Step 7 - Wiring
 
-Before permanently mounting the nozzle wiper to the printer test wether it works as expected by wiring the servo to the MCU from outside of the printer.
+Before permanently mounting the nozzle wiper to the printer test whether it works as expected by wiring the servo to the MCU from outside of the printer.
 
 - Red wire    = +5v
 - Brown wire  = GND
@@ -131,22 +131,26 @@ Now edit printer.cfg and add an include line to the Macro section of your config
 
 ### Step 8 - Servo Testing
 
-Mofdify nozzlewiper.cfg "[servo wipeServo]" and set the correct pin that you attached the singla wire for the servo to. For example, PA8 would be on the Neopixel, PC15 would be the E0-STOP.
+Modify nozzlewiper.cfg "[servo wipeServo]" and set the correct pin that you attached the single wire for the servo to. For example, PA8 would be on the Neopixel, PC15 would be the E0-STOP.
 
-Now power on the printer. Once it has fully booted, you should see a list of new macros available all prefixed with "NW".
+Now power on the printer. Once it has fully booted, you should see a list of new macros available all prefixed with "NOW".
 
-Holding the nozzle wiper firmly in the hand by the extrusion mount, run the "NW DEPLOY" macro. The arm should extend 90 degrees. Then run the "NW RETRACT" macro and the arm should move to an almost straight position. It will not be completely straight as this helps prevent the arm+bucket from hitting the printers side panel.
+Holding the nozzle wiper firmly in the hand by the extrusion mount, run the "NOW DEPLOY" macro. The arm should extend 90 degrees. Then run the "NOW RETRACT" macro and the arm should move to an almost straight position. It will not be completely straight as this helps prevent the arm+bucket from hitting the printers side panel.
 
 Shutdown the printer.
 
-### Step 9 - Wiring
+### Step 9 - Installation and Wiring
 
-Test servo
-Fit servo arm
-Measure nozzle location
-Wiring
-Klipper configuration
+Fit the Nozzle Wiper arm to the left extrusion. This uses a push fit method. Line the mount up with the logo side to the extrusion. Feed the cable into the groove on the inner section of extrusion and push the logo side into the extrusion and push the other side into inner section of extrusion. It should snap into place. You should be just about able to move the arm up and down in the extrusion.
+
+If it is too loose, there are two holes in the logo side of the mount where you can insert 2 x M2x10mm self tapping screws. Inserting the screws here will expand the mount inside the rail to hold it in place. If you then need to move the arm up and down you will have to remove the self tapping screws completely.
+
+You can route the cable up the extrusion and along the bottom of the Y axis. The cable should just fit through into the electronics bay, but you will likely need to remove the DuPont connector by lifting the taps to free the pins. You can then push the cable through and wire it to your MCU.
+
+### Step 10 - Klipper Configuration
+
+Follow the steps in the nozzlewiper.cfg file to configure the nozzle wiper setup.
 
 ## Changelog:
 
-- 2022-04-12 First release
+- 2022-05-04 First release
