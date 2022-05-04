@@ -70,13 +70,13 @@ Remove the support tabs from the bucket.
 
 Cut down the brush head so that it matches the internal width of the brush holder. It's soft plastic so can be cut with a craft knife or a pair of angle cutters.
 
-Cut the PTFE tube into 3 lots of 16mm and 1 lot of 7mm. These will act as the hinges 
+Cut the PTFE tube into 3 lots of 16mm and 1 lot of 7mm. These will act as the hinges.
 
 ### Step 3 - Fit Servo to Mount
 
 ![servo](images/servomounting.jpg)
 
-Push the cable connector through the slot provided in the servo mount as this will run on the inside of the extrusion. Fit the servo into the mount and fix in place with 2 M3x8mm screws. You may need to fettle the plastic around the hole for the top of the servo for it to fit. Note the correct orientation of the servo
+Push the cable connector through the slot provided in the servo mount as this will run on the inside of the extrusion. Fit the servo into the mount and fix in place with 2 M3x8mm screws. You may need to fettle the plastic around the hole for the top of the servo for it to fit. Note the correct orientation of the servo.
 
 ### Step 4 - Servo Section Assembly
 
@@ -141,7 +141,7 @@ Shutdown the printer.
 
 ### Step 9 - Installation and Wiring
 
-Fit the Nozzle Wiper arm to the left extrusion. This uses a push fit method. Line the mount up with the logo side to the extrusion. Feed the cable into the groove on the inner section of extrusion and push the logo side into the extrusion and push the other side into inner section of extrusion. It should snap into place. You should be just about able to move the arm up and down in the extrusion.
+Fit the Nozzle Wiper arm to the left extrusion. This uses a push fit method. Line the mount up with the logo side to the extrusion. Feed the cable up into the groove on the inner section of extrusion and push the logo side into the extrusion and the push the other side into the inner section of extrusion. It should snap into place. You should be just about able to move the arm up and down in the extrusion.
 
 If it is too loose, there are two holes in the logo side of the mount where you can insert 2 x M2x10mm self tapping screws. Inserting the screws here will expand the mount inside the rail to hold it in place. If you then need to move the arm up and down you will have to remove the self tapping screws completely.
 
