@@ -101,4 +101,4 @@ Klipper will shutdown if the top of the heatsink hits 85C. You can use thermal p
 - 2022-04-21 Reorganised repo to separate hotends
 - 2022-04-21 Added screwless 3010 hotend fan mount
 - 2022-04-27 Added mounts for the E3D Revo Voron hotend
-- 2022-05-07 Added wire exit for Klicky mount on the Dragon mount (others to follow)
+- 2022-05-07 Added wire exit for Klicky mount for all hotends
