@@ -57,7 +57,7 @@ I am using these fans:
 Each cowl includes a hole at the top to insert a thermistor. With this in place, klipper can track the temperature of the heatsink to watch for heat creep from the heatbreak. You can have klipper abort and shutdown before your whole toolhead melts! You only need a simple klipper entry for the appropriate pin on your MCU, e.g.:
 
 ```
-[temperature_sensor Heatbreak]
+[temperature_sensor Heatsink]
 sensor_type: Generic 3950
 sensor_pin: expander:PA5
 max_temp: 85
@@ -101,3 +101,4 @@ Klipper will shutdown if the top of the heatsink hits 85C. You can use thermal p
 - 2022-04-21 Reorganised repo to separate hotends
 - 2022-04-21 Added screwless 3010 hotend fan mount
 - 2022-04-27 Added mounts for the E3D Revo Voron hotend
+- 2022-05-07 Added wire exit for Klicky mount on the Dragon mount (others to follow)
