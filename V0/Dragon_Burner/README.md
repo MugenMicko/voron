@@ -30,12 +30,15 @@ NOTE: This is a Work In Progress and CAD files will not be available until full 
 ## Printing:
 
 - Use the Voron defaults and print in ABS or better. The part is orientated correctly in the STL.
+- Print the appropriate cowl from the Toolheads directory
+- Print the FanDuct_Left.stl and the appropriate FanDuct_Right_*.stl depending on whether you use a probe 
 
 ## BOM:
 
 In addition to the [Mini-AfterSherpa](https://github.com/KurioHonoo/Mini-AfterSherpa):
 
-- 2x additional heat inserts (for ADXL345 mount)
+- 2x M3x6mm SHCS/BHCS (for fan duct mounts)
+- 4x M3 5x4mm additional heat inserts (2 for ADXL345 mount, 2 for fan duct mounts)
 - 2x M3x16mm BHCS (optional: for hotend fan)
 - 2x M3x8mm BHCS (for ADXL mount)[*]
 - 2x M2x10mm self tapping screws (for blower fans)
@@ -67,7 +70,9 @@ Klipper will shutdown if the top of the heatsink hits 85C. You can use thermal p
 
 ## Assembly:
 
-- If you are using one of the Klicky variants, add the wires and magnets to the toolhead
+- Add fan duct inserts to the cowl being careful not to push them all the way through. They should fit level on both surfaces with the standard M3 5x4mm inserts
+- Attach the fan ducts to the cowl using 2x M3x6mm. SHCS preferred for a low profile
+- If you are using one of the Klicky variants, add the wires and magnets to the fan duct
 - Add ADXL mount inserts to the lower outside left of the toolhead
 - There is a hole on the left face to put the left 4010 blower fan cable through, do this before going further
 - Insert the 3010 hotend fan and route both fan cables through the provided channel
@@ -102,3 +107,4 @@ Klipper will shutdown if the top of the heatsink hits 85C. You can use thermal p
 - 2022-04-21 Added screwless 3010 hotend fan mount
 - 2022-04-27 Added mounts for the E3D Revo Voron hotend
 - 2022-05-07 Added wire exit for Klicky mount for all hotends
+- 2022-05-08 Modified all toolheads to use removeable fan ducts
