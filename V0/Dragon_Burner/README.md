@@ -72,6 +72,7 @@ Klipper will shutdown if the top of the heatsink hits 85C. You can use thermal p
 
 - Add fan duct inserts to the cowl being careful not to push them all the way through. They should fit level on both surfaces with the standard M3 5x4mm inserts
 - Attach the fan ducts to the cowl using 2x M3x6mm. SHCS preferred for a low profile
+- Remove the small duct overhang supports
 - If you are using one of the Klicky variants, add the wires and magnets to the fan duct
 - Add ADXL mount inserts to the lower outside left of the toolhead
 - There is a hole on the left face to put the left 4010 blower fan cable through, do this before going further
