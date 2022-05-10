@@ -21,12 +21,6 @@ It uses the standard Voron X carriage, is based on the [Mini-AfterSherpa](https:
 
 These have all been implemented in this public release.
 
-NOTE: This is a Work In Progress and CAD files will not be available until full release (i.e. once I've learnt Fusion 360)
-
-## Additional Goals:
-
-- Learn Fusion 360 so I can publish decent source CAD files (I've a way to go on this one, this work was done on TinkerCad)
-
 ## Printing:
 
 - Use the Voron defaults and print in ABS or better. The part is orientated correctly in the STL.
@@ -109,3 +103,4 @@ Klipper will shutdown if the top of the heatsink hits 85C. You can use thermal p
 - 2022-04-27 Added mounts for the E3D Revo Voron hotend
 - 2022-05-07 Added wire exit for Klicky mount for all hotends
 - 2022-05-08 Modified all toolheads to use removeable fan ducts
+- 2022-05-22 Links to public Tinkercad added
