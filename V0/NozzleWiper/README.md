@@ -16,12 +16,6 @@ clean it of filament debris for cleaner prints.
 
 These have all been implemented in this public release.
 
-NOTE: This is a Work In Progress and CAD files will not be available until full release (i.e. once I've learnt Fusion 360)
-
-## Additional Goals:
-
-- Learn Fusion 360 so I can publish decent source CAD files (I've a way to go on this one, this work was done on TinkerCad)
-
 ## Printing:
 
 - Use the Voron defaults and print in ABS or better
@@ -157,3 +151,4 @@ Follow the steps in the nozzlewiper.cfg file to configure the nozzle wiper setup
 ## Changelog:
 
 - 2022-05-04 First release
+- 2022-05-22 Link to public Tinkercad added
