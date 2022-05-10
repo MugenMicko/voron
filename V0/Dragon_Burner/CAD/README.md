@@ -1,4 +1,4 @@
-TinkerCAD is available:
+TinkerCAD is available (good luck, you'll need it):
 
 Cowls: https://www.tinkercad.com/things/0yGa4jtiggI
 
