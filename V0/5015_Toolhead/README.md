@@ -7,13 +7,14 @@ This toolhead should not lose any X, Y or Z travel, though the standard cowl mig
 
 ![5015_Toolhead](images/5015_toolhead.jpg)
 
-Please Note: This is a Work In Progress and things will likely changed as issues are fixed or enhancements are released.
+Please Note: This is a Work In Progress and things will likely change as issues are fixed and enhancements are made.
 
 
 ## Printing:
 
-- Use the Voron defaults and print in ABS or better. The parts are orientated correctly in the STLs.
-- The cowl will have different variants for choices of probe, or no probe
+- Use the Voron defaults and print in ABS or better
+- The parts are orientated correctly in the STLs.
+- The cowl will have different variants for choice of probe, or no probe
 - Choose the mount for the specific hotend to be used
 
 ## BOM:
