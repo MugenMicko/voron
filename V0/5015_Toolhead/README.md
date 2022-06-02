@@ -13,7 +13,7 @@ Please Note: This is a Work In Progress and things will likely change as issues 
 ## Printing:
 
 - Use the Voron defaults and print in ABS or better
-- The parts are orientated correctly in the STLs.
+- The parts are orientated correctly in the STLs
 - The cowl will have different variants for choice of probe, or no probe
 - Choose the mount for the specific hotend to be used
 
@@ -56,6 +56,7 @@ TBD: [text to follow]
 ![fancut](images/fancut.jpg)
 ![fantape](images/fantape.jpg)
 ![fancap](images/fancap.jpg)
+![fanfit](images/fanfit.jpg)
 ![hotendmount](images/hotendmount.jpg)
 ![extrudermount](images/extrudermount.jpg)
 ![testassembly](images/testassembly.jpg)
