@@ -48,7 +48,7 @@ Klipper will shutdown if the top of the heatsink hits 85C. You can use thermal p
 
 TBD:
 
-![fancut](images/5015_fancut.jpg)
+![fancut](images/fancut.jpg)
 ![fantape](images/fantape.jpg)
 ![fancap](images/fancap.jpg)
 ![hotendmount](images/hotendmount.jpg)
