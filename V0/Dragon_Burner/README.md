@@ -15,6 +15,7 @@ It uses the standard Voron X carriage, is based on the [Mini-AfterSherpa](https:
 - Twin 4010 24v blower part cooling fans
 - [SlideSwipe magnetic probe](https://github.com/chestwood96/SlideSwipe) support
 - [(Un)Klicky Probe](https://github.com/jlas1/Klicky-Probe) support
+- [ZeroClick probe] (https://github.com/zruncho3d/ZeroClick) support
 - ADXL345 mount point and board mount
 - Heatsink thermistor support
 - Screwless hotend fan attachment
@@ -40,7 +41,7 @@ In addition to the [Mini-AfterSherpa](https://github.com/KurioHonoo/Mini-AfterSh
 - 2x 4010 blower fans (24v recommended)
 - 1x 3010 hotend fan (24v recommended)
 
-The cowl supports a no probe setup, [SlideSwipe magnetic probe](https://github.com/chestwood96/SlideSwipe) and [(Un)Klicky Probe](https://github.com/jlas1/Klicky-Probe)
+The cowl supports a no probe setup, [SlideSwipe magnetic probe](https://github.com/chestwood96/SlideSwipe), [(Un)Klicky Probe](https://github.com/jlas1/Klicky-Probe) and [ZeroClick probe] (https://github.com/zruncho3d/ZeroClick)
 
 ## Fans:
 
@@ -106,3 +107,4 @@ Klipper will shutdown if the top of the heatsink hits 85C. You can use thermal p
 - 2022-05-10 Links to public Tinkercad added
 - 2022-05-11 Updated Klicky fan ducts
 - 2022-05-21 Added bridging supports to Klicky fan ducts
+- 2022-06-03 Added ZeroClick variant support
