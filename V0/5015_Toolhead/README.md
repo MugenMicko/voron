@@ -31,7 +31,7 @@ The cowl variants will support a no probe setup, [SlideSwipe magnetic probe](htt
 
 I am using these fans:
 
-- 24v Blower 5015: [Gdstime](https://www.aliexpress.com/item/32865977791.html)
+- 24v Blower 5015: [Mellow (Pengda)](https://www.aliexpress.com/item/32844339310.html)
 - 24v Axial 3010: [Gdstime](https://www.aliexpress.com/item/1005002857100082.html)
 
 ## Heatsink Thermistor:
