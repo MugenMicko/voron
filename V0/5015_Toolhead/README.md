@@ -3,7 +3,7 @@ This is a Voron V0.1 toolhead that uses the guts of a 5015 fan for part cooling.
 
 It uses the standard Voron V0.1 X carriage, is based on the [Mini-AfterSherpa](https://github.com/KurioHonoo/Mini-AfterSherpa), but I've designed it from the ground up using TinkerCad :man_facepalming:
 
-This toolhead should not lose any X, Y or Z travel, though the standard cowl might hit on max Y due to the slant of the panels.
+This toolhead should not lose any X, Y or Z travel, though the standard top hat might hit on max Y due to the slant of the panels.
 
 ![5015_Toolhead](images/5015_toolhead.jpg)
 
