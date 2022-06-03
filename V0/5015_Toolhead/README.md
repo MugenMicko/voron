@@ -53,9 +53,17 @@ Will be published once released from WIP.
 
 TBD: [text to follow]
 
+You need to remove most of the outer shell of the 5010 fan. Before doing so, please connect the fan to your MCU/toolhead board and ensure that it responds to pmw from klipper.
+
+You need to spli the 5010 fan casing in half by poking the tabs on the fan. Once done, take the half with the fan attached and carefully trim off the casing up to the fins. If more breaks off it shouldn't be a problem. What you want to be left with is a ~35mm circle of casing that matches the diameter of the actual fan. Be very careful not to cut the fan wires, or to manipulate the wires too much as they can easily break from their solder patches:
 ![fancut](images/fancut.jpg)
+
+Using VHB tape, cut to fit the back of the fan. You might want to remove any stickers on the back of the fan casing to ensure a good bond:
 ![fantape](images/fantape.jpg)
+
+Affix the fan to the fan cap by threading the wires through the hole and centre the fan into the middle of the fan cap. It does not need to be 100% central if you don't mind the off-centre aesthetic.
 ![fancap](images/fancap.jpg)
+
 ![fanfit](images/fanfit.jpg)
 ![hotendmount](images/hotendmount.jpg)
 ![extrudermount](images/extrudermount.jpg)
@@ -65,4 +73,4 @@ TBD: [text to follow]
 
 ## Changelog:
 
-- 2022-06-02 WIP release
+- 2022-06-03 WIP release
