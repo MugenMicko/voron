@@ -51,7 +51,7 @@ Will be published once released from WIP.
 
 ## Assembly:
 
-TBD: [text to follow]
+[currently incomplete]
 
 You need to remove most of the outer shell of the 5010 fan. Before doing so, please connect the fan to your MCU/toolhead board and ensure that it responds to pmw from klipper.
 
