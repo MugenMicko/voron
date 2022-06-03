@@ -55,6 +55,8 @@ Will be published once released from WIP.
 
 Place brass inserts into the cowl for mounting the hotend and the adxl mount if using this. Also add zip-ties to the cowl in advance of fitting the toolhead to the X carriage.
 
+The 3010 hotend fan is meant to be press fit. If it's too tight, sand or file the opening but don't force it in otherwise it can deform and the blades will hit the casing. If it's too lose or rattles, use M3 screws to secure it through the top two holes into the cowl.
+
 You need to remove most of the outer shell of the 5010 fan. Before doing so, please connect the fan to your MCU/toolhead board and ensure that it responds to pmw from klipper.
 
 You need to split the 5010 fan casing in half by poking the tabs on the fan. Once done, take the half with the fan attached and carefully trim off the casing up to the fins. I use side cutters, but a craft knife should work. If more breaks off it shouldn't be a problem. What you want to be left with is a ~35mm circle of casing that matches the diameter of the actual fan. Be very careful not to cut the fan wires, or to manipulate the wires too much as they can easily break from their solder patches:
@@ -87,7 +89,7 @@ Mount the extruder on top of the hotend onto the cowl using 2 M3x20 screws to ch
 
 Remove the extruder and hotend from the cowl. Attach the hotend assembly to the X carriage using 3 M3x20mm screws.
 
-Offer up the cowl and extruder assembly to the hotend mount and secure using 2 M3x20mm screws. Be careful not to catch any wires between the surfaces:
+Offer up the cowl and extruder assembly to the hotend mount and secure using 2 M3x20mm screws. Be careful not to catch any wires between the surfaces (this step needs a bit of juggling to get everything to fit and the wires to route correctly):
 
 ![xmount](images/xmount.jpg)
 
