@@ -16,7 +16,7 @@ Please Note: This is a Work In Progress and things will likely change as issues 
 - The parts are orientated correctly in the STLs
 - The cowl will have different variants for choice of probe, or no probe
 - Choose the mount for the specific hotend to be used
-- If using the [Voron Pocket-Watch 2](https://github.com/VoronDesign/Pocket-Watch) extruder, print the source STL's from the repository, but use the [Guts_p2_x1.stl ](STLs/Guts_p2_x1.stl) from this project instead. The Pocket-Watch is inverted for this toolhead.
+- If using the [Voron Pocket-Watch 2](https://github.com/VoronDesign/Pocket-Watch) extruder, print the source STL's from the repository, but use the [Guts_p2_x1.stl ](STLs/Guts_p2_x1.stl) from this project instead. The Pocket-Watch is [inverted for this toolhead](images/PocketWatch2.jpg).
 
 ## BOM:
 
