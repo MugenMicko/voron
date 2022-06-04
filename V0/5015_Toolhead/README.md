@@ -1,5 +1,5 @@
 # 5015 Toolhead
-This is a Voron V0.1 toolhead that uses the guts of a 5015 fan for part cooling. It currently only works with the LGX Lite extruder, but the TBG-Lite extruder will be added.
+This is a Voron V0.1 toolhead that uses the guts of a 5015 fan for part cooling. It currently works with the LGX Lite extruder and the [Voron PocketWatch 2](https://github.com/VoronDesign/Pocket-Watch). The TBG-Lite extruder will be added.
 
 It uses the standard Voron V0.1 X carriage, is based on the [Mini-AfterSherpa](https://github.com/KurioHonoo/Mini-AfterSherpa), but I've designed it from the ground up using TinkerCad :man_facepalming:
 
@@ -16,6 +16,7 @@ Please Note: This is a Work In Progress and things will likely change as issues 
 - The parts are orientated correctly in the STLs
 - The cowl will have different variants for choice of probe, or no probe
 - Choose the mount for the specific hotend to be used
+- If using the [Voron Pocket-Watch 2](https://github.com/VoronDesign/Pocket-Watch) extruder, print the source STL's from the repository, but use the Guts_p2_x1.stl from this project instead. The Pocket-Watch is inverted for this toolhead.
 
 ## BOM:
 
@@ -100,3 +101,4 @@ Plugin, test the fans and redo your X offset as it will probably have changed sl
 ## Changelog:
 
 - 2022-06-03 WIP release
+- 2022-06-04 Added support for the Voron PocketWatch 2 extruder
