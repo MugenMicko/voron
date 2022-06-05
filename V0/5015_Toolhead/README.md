@@ -103,3 +103,4 @@ Plugin, test the fans and redo your X offset as it will probably have changed sl
 - 2022-06-03 WIP release
 - 2022-06-04 Added support for the Voron PocketWatch 2 extruder
 - 2022-06-05 Added cable exit hole in Klicky cowl
+- 2022-06-05 Added cable ducts to all cowls
