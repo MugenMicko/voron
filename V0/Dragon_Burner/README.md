@@ -108,3 +108,4 @@ Klipper will shutdown if the top of the heatsink hits 85C. You can use thermal p
 - 2022-05-11 Updated Klicky fan ducts
 - 2022-05-21 Added bridging supports to Klicky fan ducts
 - 2022-06-03 Added ZeroClick variant support
+- 2022-06-05 Easier to print fan ducts and magnet helper for ZeroClick
