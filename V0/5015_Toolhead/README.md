@@ -54,7 +54,7 @@ Will be published once released from WIP.
 
 ## Assembly:
 
-Place brass inserts into the cowl for mounting the hotend and the adxl mount if using this. Also add zip-ties to the cowl in advance of fitting the toolhead to the X carriage.
+Place brass inserts into the cowl for mounting the hotend and the adxl mount if using this.
 
 The 3010 hotend fan is meant to be press fit. If it's too tight, sand or file the opening but don't force it in otherwise it can deform and the blades will hit the casing. If it's too lose or rattles, use M3 screws to secure it through the top two holes into the cowl.
 
@@ -84,7 +84,7 @@ Affix the extruder mount to the bottom of the extruder:
 
 ![extrudermount](images/extrudermount.jpg)
 
-Mount the extruder on top of the hotend onto the cowl using 2 M3x20 screws to check the assembly:
+Mount the extruder on top of the hotend onto the cowl using 2 M3x20 screws to check the assembly. Zip-tie the cables to the hotend mount in advance of fitting the toolhead to the X carriage.:
 
 ![testassembly](images/testassembly.jpg)
 
@@ -104,3 +104,4 @@ Plugin, test the fans and redo your X offset as it will probably have changed sl
 - 2022-06-04 Added support for the Voron PocketWatch 2 extruder
 - 2022-06-05 Added cable exit hole in Klicky cowl
 - 2022-06-05 Added cable ducts to all cowls
+- 2022-06-05 Moved zip-ties from cowls to hotend mounts
