@@ -54,6 +54,8 @@ Will be published once released from WIP.
 
 ## Assembly:
 
+![startparts](images/startparts.jpg)
+
 Place brass inserts into the cowl for mounting the hotend and the adxl mount if using this.
 
 The 3010 hotend fan is meant to be press fit. If it's too tight, sand or file the opening but don't force it in otherwise it can deform and the blades will hit the casing. If it's too lose or rattles, use M3 screws to secure it through the top two holes into the cowl.
@@ -74,9 +76,27 @@ Affix the fan to the fan cap by threading the wires through the hole and centre 
 
 Fit the fan cap onto the cowl and ensure that it sits well without rubbing on the cowl:
 
+![fanmount](images/fanmount.jpg)
+
 ![fanfit](images/fanfit.jpg)
 
-Affix your chosen hotend mount to your hotend. This must be done before mounting to the X carriage as the screws to the hotend will no longer be accessible:
+TBD:
+
+![rgbwtabs](images/rgbwtabs.jpg)
+
+TBD:
+
+![rgbwcable](images/rgbwcable.jpg)
+
+TBD:
+
+![rgbwdiffuser](images/rgbwdiffuser.jpg)
+
+TBD:
+
+![rgbwfit](images/rgbwfit.jpg)
+
+Affix your chosen hotend mount to your hotend. This must be done before mounting to the X carriage as the screws to the hotend will no longer be accessible. Add zip-ties to the hotend mount in advance of fitting the toolhead to the X carriage:
 
 ![hotendmount](images/hotendmount.jpg)
 
@@ -84,7 +104,7 @@ Affix the extruder mount to the bottom of the extruder:
 
 ![extrudermount](images/extrudermount.jpg)
 
-Mount the extruder on top of the hotend onto the cowl using 2 M3x20 screws to check the assembly. Zip-tie the cables to the hotend mount in advance of fitting the toolhead to the X carriage.:
+Mount the extruder on top of the hotend onto the cowl using 2 M3x20 screws to check the assembly:
 
 ![testassembly](images/testassembly.jpg)
 
