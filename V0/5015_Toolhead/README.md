@@ -129,7 +129,7 @@ To configure the Neopixels in Klipper, I'd suggest using the StealthBurner confi
 
 ```
 variable_logo_idx:              "1,2"
-variable_nozzle_idx:            "3"
+variable_nozzle_idx:            "3" # not used
 ```
 
 ## Changelog:
