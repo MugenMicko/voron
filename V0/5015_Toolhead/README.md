@@ -25,6 +25,7 @@ Please Note: This is a Work In Progress and things will likely change as issues 
 - 2(4)x Brass heat inserts (2 for cowl hotend mount, 2 optional for ADXL mount)
 - 1x 5015 part cooling fan that you are happy to cut to pieces
 - 1x 3010 hotend fan (24v recommended)
+- 2x Neopixels and wiring (optional)
 
 The cowl variants will support a no probe setup, [SlideSwipe magnetic probe](https://github.com/chestwood96/SlideSwipe) and [(Un)Klicky Probe](https://github.com/jlas1/Klicky-Probe)
 
@@ -78,21 +79,23 @@ Fit the fan cap onto the cowl and ensure that it sits well without rubbing on th
 
 ![fanmount](images/fanmount.jpg)
 
+The fan cover is a light friction fit and is held in place by the extruder mount:
+
 ![fanfit](images/fanfit.jpg)
 
-TBD:
+If you are going to use Neopixels, remove the two tabs at the inner base of the cowl to expose the Neopixel holes:
 
 ![rgbwtabs](images/rgbwtabs.jpg)
 
-TBD:
+Route the Neopixel cable through the provided groove and align with the hole:
 
 ![rgbwcable](images/rgbwcable.jpg)
 
-TBD:
+Place the Neopixel diffuser/holder over the top of the Neopixel with the longer sides facing down and the front:
 
 ![rgbwdiffuser](images/rgbwdiffuser.jpg)
 
-TBD:
+Push the diffuser/holder into the whole being careful not to dislodge the Neopixel being careful not to leave the cables pinched:
 
 ![rgbwfit](images/rgbwfit.jpg)
 
@@ -118,6 +121,13 @@ Zip-tie the wires to the back of the assembly.
 
 Plugin, test the fans and redo your X offset as it will probably have changed slightly.
 
+To configure the Neopixels in Klipper, I'd suggest using the StealthBurner config file, and change the following:
+
+```
+variable_logo_idx:              "1,2"
+variable_nozzle_idx:            "3"
+```
+
 ## Changelog:
 
 - 2022-06-03 WIP release
@@ -127,3 +137,4 @@ Plugin, test the fans and redo your X offset as it will probably have changed sl
 - 2022-06-05 Moved zip-ties from cowls to hotend mounts
 - 2022-06-07 Added Neopixel support
 - 2022-06-08 Updated all STLs, images and docs
+- 2022-06-11 Updated the assembly instructions
