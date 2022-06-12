@@ -125,7 +125,7 @@ Plugin, test the fans and redo your X offset as it will probably have changed sl
 
 I'm not going to go into the wiring of the Neopixels here. Do make sure the cables interconnecting the two Neopixels is long enough to loop up both sides of the cowl and above the extruder mount at the rear.
 
-To configure the Neopixels in Klipper, I'd suggest using the [StealthBurner config file](https://github.com/VoronDesign/Voron-Afterburner/blob/sb-beta/Klipper_Macros/stealthburner_leds.cfg) and change the following to assign the two Neopixels a wider range of colours:
+To configure the Neopixels in Klipper, I'd suggest using the [StealthBurner config file](https://github.com/VoronDesign/Voron-Afterburner/blob/sb-beta/Klipper_Macros/stealthburner_leds.cfg) and change the following to assign the two Neopixels a wider range of colour options:
 
 ```
 variable_logo_idx:              "1,2"
