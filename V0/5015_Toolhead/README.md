@@ -113,7 +113,7 @@ Mount the extruder on top of the hotend onto the cowl using 2 M3x20 screws to ch
 
 Remove the extruder and hotend from the cowl. Attach the hotend assembly to the X carriage using 3 M3x20mm screws.
 
-Offer up the cowl and extruder assembly to the hotend mount and secure using 2 M3x20mm screws. Be careful not to catch any wires between the surfaces (this step needs a bit of juggling to get everything to fit and the wires to route correctly):
+Offer up the cowl and extruder assembly to the hotend mount and secure using 2 M3x20mm screws. Be careful not to catch any wires between the surfaces (this step needs a bit of juggling to get everything to align and fit and the wires to route correctly):
 
 ![xmount](images/xmount.jpg)
 
