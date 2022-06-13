@@ -142,3 +142,4 @@ variable_nozzle_idx:            "3" # not used
 - 2022-06-07 Added Neopixel support
 - 2022-06-08 Updated all STLs, images and docs
 - 2022-06-11 Updated the assembly instructions
+- 2022-06-13 Fixed the Revo Voron mount
