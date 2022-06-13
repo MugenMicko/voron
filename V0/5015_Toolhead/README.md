@@ -1,7 +1,7 @@
 # 5015 Toolhead
-This is a Voron V0.1 toolhead that uses the guts of a 5015 fan for part cooling and incorporates Neopixel RGBW leds. It currently works with the LGX Lite extruder and the [Voron PocketWatch 2](https://github.com/VoronDesign/Pocket-Watch). The TBG-Lite extruder will be added.
+This is a Voron V0.1 toolhead that uses the guts of a 5015 fan for part cooling and incorporates Neopixel RGBW leds. It currently works with the LGX Lite extruder and the [Voron PocketWatch 2](https://github.com/VoronDesign/Pocket-Watch). The TBG-Lite extruder will be added soon.
 
-It uses the standard Voron V0.1 X carriage (and the MGN9C mod X carriage), is based on the [Mini-AfterSherpa](https://github.com/KurioHonoo/Mini-AfterSherpa), but I've designed it from the ground up using TinkerCad :man_facepalming:
+It uses the standard Voron V0.1 X carriage (and the MGN9C mod X carriage), is based on the [Mini-AfterSherpa](https://github.com/KurioHonoo/Mini-AfterSherpa), but I've designed it from the ground up:
 
 This toolhead should not normally lose any X, Y or Z travel.
 
@@ -143,3 +143,4 @@ variable_nozzle_idx:            "3" # not used
 - 2022-06-08 Updated all STLs, images and docs
 - 2022-06-11 Updated the assembly instructions
 - 2022-06-13 Fixed the Revo Voron mount
+- 2022-06-13 Added Rapido HF mount with no loss in Y
