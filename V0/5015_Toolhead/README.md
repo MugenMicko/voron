@@ -29,6 +29,13 @@ Please Note: This is a Work In Progress and things will likely change as issues 
 
 The cowl variants will support a no probe setup, [SlideSwipe magnetic probe](https://github.com/chestwood96/SlideSwipe) and [(Un)Klicky Probe](https://github.com/jlas1/Klicky-Probe)
 
+## Supported Hotends:
+
+- Revo Voron
+- Dragon SF/HF
+- DragonFly
+- Rapido HF
+
 ## Fans:
 
 I am using these fans:
