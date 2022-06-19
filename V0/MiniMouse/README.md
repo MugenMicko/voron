@@ -23,11 +23,13 @@ Please Note: This is a Work In Progress and things will likely change as issues 
 - 5x Brass heat inserts (4 for the mount, 1 for the lever)
 - 1x BMG Extruder Kit 
 - 1x NEMA14 36mm pancake Motor with 10 tooth gear
+- 1x ECAS04 Embedded Collet (optional)
 
 ## Sources:
 
 - BMG Extruder Kit [AliExpress](https://www.aliexpress.com/item/4000021186440.html)
 - NEMA14 36mm pancake Motor with 10 tooth gear [AliExpress](https://www.aliexpress.com/item/1005003056906725.html)
+- ECAS04 Embedded Collet [Aliexpress](https://www.aliexpress.com/item/1005002538357279.html)
 
 ## CAD:
 
