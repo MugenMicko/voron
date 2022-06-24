@@ -41,8 +41,6 @@ Will be published once released from WIP.
 
 ![lever](images/lever.jpg)
 
-![leverfit](images/leverfit.jpg)
-
 ![maingear](images/maingear.jpg)
 
 ![rear](images/rear.jpg)
