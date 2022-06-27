@@ -2,7 +2,7 @@
 
 The RoundHouse is a direct drive extruder designed for the Voron v0.1
 
-It uses the mounts from the [Mini-AfterSherpa](https://github.com/KurioHonoo/Mini-AfterSherpa) and was designed to completment the [5015 Toolhead](https://github.com/waytotheweb/voron/tree/main/V0/5015_Toolhead) toolhed. It can be used on any toolhead that uses the [Mini-AfterSherpa](https://github.com/KurioHonoo/Mini-AfterSherpa) design.
+It uses the mounts from the [Mini-AfterSherpa](https://github.com/KurioHonoo/Mini-AfterSherpa) and was designed to complement the [5015 Toolhead](https://github.com/waytotheweb/voron/tree/main/V0/5015_Toolhead) toolhead. It can be used on any toolhead that uses the [Mini-AfterSherpa](https://github.com/KurioHonoo/Mini-AfterSherpa) design.
 
 ![roundhouse](images/roundhouse.jpg)
 
