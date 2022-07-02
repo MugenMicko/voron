@@ -51,7 +51,7 @@ Place the top panel into the center of the bed and attach the four connectors be
 
 Now work from the left, to the back, to the right, using the side and bottom connectors for each panel.
 
-![toppanelclips](images/toppanelclips.jpg)
+![doorhandlevhb](images/doorhandlevhb.jpg)
 
 ### Building the door:
 
