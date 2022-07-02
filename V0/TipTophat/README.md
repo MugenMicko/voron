@@ -1,6 +1,6 @@
-# Tophat NG
+# TipTophat
 
-TophatNG is an alternative Tophat for the Voron v0.1 which uses the BOM panels. It provides 30mm in additional height as well as better access via the additional door. It places the side panels fully virtically to make the tophat square. It also comes with hinges that can be used with the [] Tophat hinge mod.
+TipTophat is an alternative Tophat for the Voron v0.1 which uses the BOM panels. It provides 30mm in additional height as well as better access via the additional door. It places the side panels fully virtically to make the tophat square. It also comes with hinges that can be used with the [] Tophat hinge mod.
 
 ![tophatside](images/tophatside.jpg)
 
@@ -13,7 +13,7 @@ TophatNG is an alternative Tophat for the Voron v0.1 which uses the BOM panels. 
 - Use the Voron defaults and print in ABS. I have successfully printed the main body part(s) using 0.5mm layer width and 0.25mm layer height with 25% infill. This reduces both the time to print and the amount of filament used
 - The parts are orientated correctly in the STLs
 
-There is the choice of printing the whole body using the TophatNG_Unibody if you have a printer with a print bed of at least 238x238mm. Otherwise, you can print the separate quarters on a printer with at least 119x119mm printer bed. So they can be printed on a Voron v0!
+There is the choice of printing the whole body using the Unibody if you have a printer with a print bed of at least 238x238mm. Otherwise, you can print the separate quarters on a printer with at least 119x119mm printer bed. So they can be printed on a Voron v0, but it will be tight!
 
 ## BOM:
 
@@ -43,9 +43,9 @@ Place brass heat inserts into all the holes you are going to use. This is likely
 
 ![heatinserts](images/heatinserts.jpg)
 
-If you are building using the unibody instead of the four quadrants, you need to arrange the four quadrants with 1 at the back left, 2 back right, 3 front left, 4 front right. They need to be aligned correctly.
+If you are building using the unibody instead of the four quadrants, you need to arrange the four quadrants with Q1 at the back left, Q2 back right, Q3 front left, Q4 front right. They need to be aligned correctly.
 
-Place the top panel into the center of the bed and attach the four connectors being very careful not to overtighten them, otherwise you can easily crack the print or the panels. It's better to have the connectors loose initially and tighten slightly until the panel doesn't move.
+Place the top panel into the center of the bed and attach four connectors being very careful not to overtighten them, otherwise you can easily crack the print or the panels. It's better to have the connectors loose initially and tighten slightly until the panel doesn't move.
 
 ![toppanelclips](images/toppanelclips.jpg)
 
@@ -59,7 +59,7 @@ The door connector takes a single 6x3mm Neodymium magnet. You should be able to 
 
 ![framemagnet](images/framemagnet.jpg)
 
-Take the two door hinge parts and assemble. The screws go into plastic, so do not tighten. The hinges should be a little bit loose so that the move cleanly without binding. They can be adjusted later.
+Take the two door hinge parts and assemble. The screws go into plastic, so do not tighten. The hinges should be a little bit loose so that it moves cleanly without binding. This can be adjusted later.
 
 ![doorhinge](images/doorhinge.jpg)
 
