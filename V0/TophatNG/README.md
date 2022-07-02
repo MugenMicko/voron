@@ -87,8 +87,6 @@ Open the tophat door and close the main printer door. Now close the tophat door 
 
 ![tophatdoor](images/tophatdoor.jpg)
 
-You can adjust the frame mount from the inside screws to change the fitting of the hinge. You can also tighten and loosen the hinge screws to lower and raise the door panel. If none of that works, unscrew the door hinge and take the hinge+tophat door off. You can usually remove the hinge from the door, by very slowly pulling the hinge from the door panel, being careful not to snap the hinge or crack the panel. You can then redo the hanging steps for a better fit.
-
 ### Adding the handle:
 
 Take the door handle and the second magnet. With the tophat door closed, put the magnet against the frame magnet to get the correct orientation (use a marker pen on the magnet if it helps).
@@ -102,3 +100,5 @@ Maintaining the correct orientation place the magnet into one of the holes in th
 With the tophat door closed, align the handle with the magnet at the top opposite the magnet in the frame and keeping the handle straight press it onto the door. If it's not quite right, it should be fairly easy to carefully, and slowly, remove the handle and do it again.
 
 ![doorhandlefit](images/doorhandlefit.jpg)
+
+You can adjust the frame mount from the inside screws to change the fitting of the hinge. You can also tighten and loosen the hinge screws to lower and raise the door panel. If none of that works, unscrew the door hinge and take the hinge+tophat door off. You can usually remove the hinge from the door, by very slowly pulling the hinge from the door panel, being careful not to snap the hinge or crack the panel. You can then redo the hanging steps for a better fit.
