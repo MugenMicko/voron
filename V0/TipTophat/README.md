@@ -4,6 +4,8 @@ TipTophat is an alternative Tophat for the Voron v0.1 which uses the BOM panels.
 
 ![tophatside](images/tophatside.jpg)
 
+[![View Video](https://youtube.com/shorts/2B_G5BKOER0?feature=share)](https://youtube.com/shorts/2B_G5BKOER0?feature=share)
+
 ![tophatopen](images/tophatopen.jpg)
 
 ![tophatclosed](images/tophatclosed.jpg)
