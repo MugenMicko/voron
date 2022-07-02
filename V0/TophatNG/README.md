@@ -93,7 +93,11 @@ Take the door handle and the second magnet. With the tophat door closed, put the
 
 ![doormagnet](images/doormagnet.jpg)
 
-Maintaining the correct orientation place the magnet into one of the holes in the foot of the handle. Place VHB tape over both of the handles feet.
+Maintaining the correct orientation place the magnet into one of the holes in the foot of the handle:
+
+![doorhandlemagnet](images/doorhandlemagnet.jpg)
+
+Place VHB tape over both of the handles feet:
 
 ![doorhandlevhb](images/doorhandlevhb.jpg)
 
