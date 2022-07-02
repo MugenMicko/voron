@@ -1,6 +1,6 @@
 # TipTophat
 
-TipTophat is an alternative Tophat for the Voron v0.1 which uses the BOM panels. It provides 30mm in additional height as well as better access via the additional door. It places the side panels fully virtically to make the tophat square. It also comes with hinges that can be used with the [] Tophat hinge mod.
+TipTophat is an alternative Tophat for the Voron v0.1 which uses the BOM panels. It provides 30mm in additional height as well as better access via the additional door. It places the side panels fully virtically to make the tophat square. It also comes with hinges that can be used with the [Tophat hinge  mod](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/MSiemons/TophatHingeV0.1).
 
 ![tophatside](images/tophatside.jpg)
 
@@ -12,6 +12,7 @@ TipTophat is an alternative Tophat for the Voron v0.1 which uses the BOM panels.
 
 - Use the Voron defaults and print in ABS. I have successfully printed the main body part(s) using 0.5mm layer width and 0.25mm layer height with 25% infill. This reduces both the time to print and the amount of filament used
 - The parts are orientated correctly in the STLs
+- If using the rear hing, print the appropriate Hinge_panel_left and Hinge_panel_right from [Tophat hinge  mod](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/MSiemons/TophatHingeV0.1)
 
 There is the choice of printing the whole body using the Unibody if you have a printer with a print bed of at least 238x238mm. Otherwise, you can print the separate quarters on a printer with at least 119x119mm printer bed. So they can be printed on a Voron v0, but it will be tight!
 
