@@ -91,10 +91,14 @@ You can adjust the frame mount from the inside screws to change the fitting of t
 
 ### Adding the handle:
 
-Take the door handle and the second magnet. With the tophat door closed, put the magnet against the frame magnet to get the correct orientation (use a marker pen on the magnet if it helps). Maintaining the correct orientation place the magnet into one of the holes in the foot of the handle. Place VHB tape over both of the handles feet.
+Take the door handle and the second magnet. With the tophat door closed, put the magnet against the frame magnet to get the correct orientation (use a marker pen on the magnet if it helps).
+
+![doormagnet](images/doormagnet.jpg)
+
+Maintaining the correct orientation place the magnet into one of the holes in the foot of the handle. Place VHB tape over both of the handles feet.
 
 ![doorhandlevhb](images/doorhandlevhb.jpg)
 
 With the tophat door closed, align the handle with the magnet at the top opposite the magnet in the frame and keeping the handle straight press it onto the door. If it's not quite right, it should be fairly easy to carefully, and slowly, remove the handle and do it again.
 
-![doormagnet](images/doormagnet.jpg)
+![doorhandlefit](images/doorhandlefit.jpg)
