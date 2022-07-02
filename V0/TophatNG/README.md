@@ -75,6 +75,8 @@ Screw the hinge to the side of the tophat frame. There is adjustment available h
 
 ![doorhingemount](images/doorhingemount.jpg)
 
+![doorhingefit](images/doorhingefit.jpg)
+
 If you are going to use the hinged tophat, screw the hinge parts to the back of the tophat frame. You should also fit the hinge parts to the printer.
 
 If you are using the standard locator pins, screw those in.
@@ -83,7 +85,7 @@ Put the tophat onto the printer and screw the rear hinges together if you are us
 
 ### Hanging the door:
 
-Open the tophat door and close the main printer door. Now close the tophat door and check that it does not hit the main door. If it does there are a few adjustments that can be made:
+Open the tophat door and close the main printer door. Now close the tophat door and check that it does not hit the main door. If it does there are a few adjustments that can be made later:
 
 ![tophatdoor](images/tophatdoor.jpg)
 
