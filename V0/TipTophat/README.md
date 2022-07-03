@@ -18,11 +18,11 @@ There is the choice of printing the whole body using the Unibody if you have a p
 
 ## BOM:
 
-- Original BOM panels
-- 30x M3x8mm** SHCS/BHCS (2x door frame hinge, 4x rear hinge (optional), 20x panel connectors, 4x tophat pins (optional))
+- Original BOM panels (panels of 2.5mm and 3.0mm have been tested)
+- 28x M3x8mm** SHCS/BHCS (2x door frame hinge, 4x rear hinge (optional), 18x panel connectors, 4x tophat pins (optional))
 - 1x M3x12mm SHCS/BHCS (door hinge)
 - 1x M3x25mm SHCS/BHCS (door hinge)
-- 30x Brass heat inserts (2x door frame hinge, 4x rear hinge (optional), 20x panel connectors, 4x tophat pins (optional))
+- 28x Brass heat inserts (2x door frame hinge, 4x rear hinge (optional), 18x panel connectors, 4x tophat pins (optional))
 - 2x 6x3mm Neodymium magnets
 - VHB tape
 
