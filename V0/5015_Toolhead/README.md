@@ -27,7 +27,7 @@ Please Note: This is a Work In Progress and things will likely change as issues 
 - 1x 3010 hotend fan (24v recommended)
 - 2x Neopixels and wiring (optional)
 
-The cowl variants will support a no probe setup, [SlideSwipe magnetic probe](https://github.com/chestwood96/SlideSwipe) and [(Un)Klicky Probe](https://github.com/jlas1/Klicky-Probe)
+The cowl variants will support a no probe setup, [SlideSwipe magnetic probe](https://github.com/chestwood96/SlideSwipe), [ZeroClick probe](https://github.com/zruncho3d/ZeroClick) and [(Un)Klicky Probe](https://github.com/jlas1/Klicky-Probe)
 
 ## Supported Hotends:
 
@@ -151,3 +151,4 @@ variable_nozzle_idx:            "3" # not used
 - 2022-06-11 Updated the assembly instructions
 - 2022-06-13 Fixed the Revo Voron mount
 - 2022-06-13 Added Rapido HF mount with no loss in Z
+- 2022-07-03 Added ZeroClick support
