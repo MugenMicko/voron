@@ -28,10 +28,6 @@ There is the choice of printing the whole body using the Unibody if you have a p
 
 ** If your panels are 3mm in depth you will need to substitute 4x M3x8mm screws for 4x M3x(10 or 12)mm screws for the four mid connectors
 
-## CAD:
-
-Will be published once released from WIP.
-
 ## Assembly:
 
 Note: These instructions use directions based on the tophat in front of you being upside down with the back facing away from you and the front in front of you. Once you place the tophat on the printer, instruction directions are as you look at the printer from the front.
