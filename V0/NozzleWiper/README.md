@@ -151,4 +151,4 @@ Follow the steps in the nozzlewiper.cfg file to configure the nozzle wiper setup
 ## Changelog:
 
 - 2022-05-04 First release
-- 2022-05-22 Link to public Tinkercad added
+- 2022-07-11 Added STEP CAD
