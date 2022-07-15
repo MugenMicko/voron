@@ -43,23 +43,44 @@ Tops:
 
 ## Assembly:
 
+Parts used:
 ![parts](images/parts.jpg)
+
+Insert one of the magnets into the pin, push it in fully so that it shows in the groove gap:
 ![pin](images/pin.jpg)
+
+Insert the corresponding pin into the base and make sure that they on attract from the outside as shown:
 ![magnets](images/magnets.jpg)
+
+Insert the pin into the base with the pin grooves to the sides for the screws to enter. The pin should be pushed down to the bottom by the magnet in the base. Push the pin right up to the base magnet and screw in the screws to either side of the pin:
 ![assembly](images/assembly.jpg)
+
+Place the top on the base and secure with two screws:
 ![top](images/top.jpg)
+
+Attach cables to each screw that goes into the pin. There is no polarity and no voltage so it doesn't matter how they are connected. I used fork connectors for ease of use. Make sure the pin screws are screwed in tightly:
 ![cable](images/cable.jpg)
+
+Hook up the wires to a multimeter and put it on it's continuity test. It should show resistance (and/or beep) when there's no filament in the sensor:
 ![nofilament](images/nofilament.jpg)
+
+It should show no resistance (and/or remain silent) if you fully insert some filament into the sensor. Feed the filament through a few times from each side to ensure that you do not see any resistance when filament is present, and that you do see resistance when there is none:
 ![filament](images/filament.jpg)
 
 
 ## Wiring:
 
-Wire to an end-stop or similar pin. Do _not_ connect to voltage, _only_ to pin and GND.
+Wire to an end-stop or similar pin. Do _not_ connect to voltage, _only_ to pin and GND. For example, with the BTT SKR MINI V2.0 you could use the E-STOP pin (PC15) and GND. For the BTT SKR Pico you could also use the E-STOP pin (gpio16) and GND.
 
-Upload and include runoutunklicky.cfg and change the PIN definition. Test. If it shows incorrectly in klipper add a ! in front of the PIN definition and test again.
+Upload and include runoutunklicky.cfg and change the PIN definition. The config file contains what is required to use a runout sensor. The M600 macro is included to provide a pause and resume function should the sensor trigger allowing a filament change. You may need or want to change this to suit your needs.
+
+Test by inserting and removing filament. If it shows incorrectly in klipper add a ! in front of the PIN definition and test again.
 
 
 ## Credits:
 
-Thanks to [chestwood96](https://github.com/chestwood96) for inspiration from the UnKlicky probe for [SlideSwipe](https://github.com/chestwood96/SlideSwipe)
+Thanks to:
+
+- [chestwood96](https://github.com/chestwood96) for inspiration from the UnKlicky probe for [SlideSwipe](https://github.com/chestwood96/SlideSwipe)
+- [majarspeed](https://github.com/majarspeed/Unklicky) for the Unklicky probe
+- [jlsa1](https://github.com/jlas1/Klicky-Probe/tree/main/Probes) for the Klicky and Unklicky probes
