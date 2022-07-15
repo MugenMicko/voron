@@ -2,7 +2,7 @@
 
 The Runout UnKlicky Sensor is a filament runout sensor that can be used to pause a print if printing filament breaks, runs out or otherwise is no longer present in the sensor.
 
-The design uses magnets as the switch, making it easy to cheap source BOM components.
+The design uses magnets as the switch, making it easy and cheap to source BOM components.
 
 ![design](images/design.png)
 
