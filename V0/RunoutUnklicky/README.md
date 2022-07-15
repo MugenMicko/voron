@@ -4,7 +4,7 @@ The Runout UnKlicky Sensor is a filament runout sensor that can be used to pause
 
 The design uses magnets as the switch, making it easy to cheap source BOM components.
 
-![design](images/design.jpg)
+![design](images/design.png)
 
 
 ## Printing:
@@ -27,7 +27,7 @@ The design uses magnets as the switch, making it easy to cheap source BOM compon
 ![parts](images/parts.jpg)
 ![pin](images/pin.jpg)
 ![magnets](images/magnets.jpg)
-![assembley](images/assembley.jpg)
+![assembly](images/assembly.jpg)
 ![cable](images/cable.jpg)
 ![nofilament](images/nofilament.jpg)
 ![filament](images/filament.jpg)
