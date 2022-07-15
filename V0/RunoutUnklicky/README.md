@@ -47,6 +47,7 @@ Tops:
 ![pin](images/pin.jpg)
 ![magnets](images/magnets.jpg)
 ![assembly](images/assembly.jpg)
+![top](images/top.jpg)
 ![cable](images/cable.jpg)
 ![nofilament](images/nofilament.jpg)
 ![filament](images/filament.jpg)
