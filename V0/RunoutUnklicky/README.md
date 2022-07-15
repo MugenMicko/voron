@@ -16,9 +16,13 @@ The design uses magnets as the switch, making it easy and cheap to source BOM co
 
 There are 3 bases and 4 tops to choose from:
 
+Bases:
+
 - Base.stl is the standard base with push in holes for the PTFE tubes
 - Base_PC4-M6.stl which allows the use of PC4-M6 connectors for the PTFE tubes
 - Base_Collet.stl which allows the use of [E3D M4 collets](https://e3d-online.com/products/embedded-bowden-collet-for-metal-1-75mm)
+
+Tops:
 
 - Top.stl is the standard top with no mounting options
 - Top_2020.stl provides mounting to 2020 extrusions
