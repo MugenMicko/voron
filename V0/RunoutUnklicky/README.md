@@ -57,3 +57,8 @@ Tops:
 Wire to an end-stop or similar pin. Do _not_ connect to voltage, _only_ to pin and GND.
 
 Upload and include runoutunklicky.cfg and change the PIN definition. Test. If it shows incorrectly in klipper add a ! in front of the PIN definition and test again.
+
+
+## Credits:
+
+Thanks to [chestwood96](https://github.com/chestwood96) for inspiration from the UnKlicky probe for [SlideSwipe](https://github.com/chestwood96/SlideSwipe)
