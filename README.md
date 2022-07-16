@@ -1,6 +1,6 @@
-#Voron Parts
+#Voron Mods
 
-These are parts I have designed for my V0.1 and Trident.
+These are mods that I have designed for my V0.1 and Trident.
 
 I hope you find some of them useful:
 
