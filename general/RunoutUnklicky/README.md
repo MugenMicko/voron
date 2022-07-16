@@ -84,7 +84,7 @@ It should show no resistance (and/or remain silent) if you fully insert some fil
 
 Wire to an end-stop or similar pin. Do _not_ connect to voltage, _only_ to pin and GND. For example, with the BTT SKR MINI V2.0 you could use the E-STOP pin (PC15) and GND. For the BTT SKR Pico you could also use the E-STOP pin (gpio16) and GND.
 
-Upload and include runoutunklicky.cfg and change the PIN definition. The config file contains what is required to use a runout sensor. The M600 macro is included to provide a pause and resume function should the sensor trigger allowing a filament change. You may need or want to change this to suit your needs.
+Upload and include runoutunklicky.cfg in your printer.cfg and change the PIN definition to the one you chose on your MCU. The config file contains what is required to use a runout sensor, but make sure it isn't duplicating anything in your full klipper config. The M600 macro is included to provide a pause and resume function should the sensor trigger allowing a filament change. You may need or want to change this to suit your needs.
 
 Test by inserting and removing filament. If it shows incorrectly in klipper add a ! in front of the PIN definition and test again.
 
