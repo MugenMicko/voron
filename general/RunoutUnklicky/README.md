@@ -37,9 +37,9 @@ Bases:
 Tops:
 
 - Top.stl is the standard top with no mounting options
-- Top_2020.stl provides mounting to 2020 extrusions
-- Top_1515.stl provides mounting to 1515 extrusions
-- Top_1515_NoNut**provides mounting to 1515 extrusions if you have no inserted nuts available
+- Top_2020.stl provides mounting to 2020 extrusions using a t-nut
+- Top_1515.stl provides mounting to 1515 extrusions using an inserted nut
+- Top_1515_NoNut** provides mounting to 1515 extrusions if you have no inserted nuts available
 
 [**] The Top_1515_NoNut can be used if you don't have any free nuts. It snaps into the extrusion. If it moves or slips, you can use a M2x10mm self-tapping screw to secure the sensor to the extrusion. Do note that the screw can scratch the inside the extrusion if that might bother you.
 
