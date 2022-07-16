@@ -61,7 +61,7 @@ Parts used:
 Insert one of the magnets into the pin, push it in fully so that it shows in the groove gap:
 ![pin](images/pin.jpg)
 
-Insert the corresponding pin into the base and make sure that they on attract from the outside as shown:
+Insert the corresponding pin into the base and make sure that they attract from the outside as shown:
 ![magnets](images/magnets.jpg)
 
 Insert the pin into the base with the pin grooves to the sides for the screws to enter. The pin should be pushed down to the bottom by the magnet in the base. Push the pin right up to the base magnet and screw in the screws to either side of the pin:
