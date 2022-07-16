@@ -12,10 +12,19 @@ NOTE: This sensor is currently a Work In  Progress. The design might change, the
 
 ## Printing:
 
+Components:
+
+- 1x Pin.stl
+- 1x Roller.stl
+- 1x Base.stl (different options are available[*])
+- 1x Top.stl (different options are available[*])
+
+Printer:
+
 - Use the Voron defaults and print in ABS or better
 - The parts are orientated correctly in the STLs
 
-### Base and Top
+### [*]Base and Top:
 
 There are 3 bases and 4 tops to choose from:
 
@@ -30,9 +39,9 @@ Tops:
 - Top.stl is the standard top with no mounting options
 - Top_2020.stl provides mounting to 2020 extrusions
 - Top_1515.stl provides mounting to 1515 extrusions
-- Top_1515_NoNut* provides mounting to 1515 extrusions if you have no inserted nuts available
+- Top_1515_NoNut**provides mounting to 1515 extrusions if you have no inserted nuts available
 
-[*] The Top_1515_NoNut can be used if you don't have any free nuts. It snaps into the extrusion. If it moves or slips, you can use a M2x10mm self-tapping screw to secure the sensor to the extrusion. Do note that the screw can scratch the inside the extrusion if that might bother you.
+[**] The Top_1515_NoNut can be used if you don't have any free nuts. It snaps into the extrusion. If it moves or slips, you can use a M2x10mm self-tapping screw to secure the sensor to the extrusion. Do note that the screw can scratch the inside the extrusion if that might bother you.
 
 
 ## BOM:
