@@ -16,15 +16,15 @@ Components:
 
 - 1x Pin.stl
 - 1x Roller.stl
-- 1x Base.stl (different options are available[^1])
-- 1x Top.stl (different options are available[^1])
+- 1x Base.stl (different options are available[*])
+- 1x Top.stl (different options are available[*])
 
 Printer:
 
 - Use the Voron defaults and print in ABS or better
 - The parts are orientated correctly in the STLs
 
-### [^1]: Base and Top:
+### [*]Base and Top:
 
 There are 3 bases and 4 tops to choose from:
 
