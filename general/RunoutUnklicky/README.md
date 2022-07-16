@@ -85,3 +85,4 @@ Thanks to:
 - [chestwood96](https://github.com/chestwood96) for inspiration from the UnKlicky probe for [SlideSwipe](https://github.com/chestwood96/SlideSwipe)
 - [majarspeed](https://github.com/majarspeed/Unklicky) for the Unklicky probe
 - [jlsa1](https://github.com/jlas1/Klicky-Probe/tree/main/Probes) for the Klicky and Unklicky probes
+- [al3ph](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/al3ph/filament_runout) for the "spinner" concept
