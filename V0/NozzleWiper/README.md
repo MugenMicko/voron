@@ -152,3 +152,4 @@ Follow the steps in the nozzlewiper.cfg file to configure the nozzle wiper setup
 
 - 2022-05-04 First release
 - 2022-07-11 Added STEP CAD
+- 2022-07-25 Improved printability of STL parts
