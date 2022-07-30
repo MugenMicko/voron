@@ -8,9 +8,6 @@ This toolhead should not normally lose any X, Y or Z travel.
 ![5015_Toolhead](images/5015_toolhead.jpg)
 ![v2](images/v2.png)
 
-Please Note: This is a Work In Progress and things will likely change as issues are fixed and enhancements are made.
-
-
 ## Printing:
 
 - Use the Voron defaults and print in ABS or better
