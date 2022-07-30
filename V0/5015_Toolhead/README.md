@@ -20,7 +20,7 @@ Please Note: This is a Work In Progress and things will likely change as issues 
 
 ## BOM:
 
-- 5x M3x20mm SHCS/BHCS (2 for the hotend mount, 3 for the X carriage mount)
+- 4x M3x20mm SHCS/BHCS (2 for the hotend mount, 2 for the X carriage mount)
 - 2x M3x8mm  SHCS/BHCS (for the extruder mount)
 - 2(4)x Brass heat inserts (2 for cowl hotend mount, 2 optional for ADXL mount)
 - 1x 5015 part cooling fan that you are happy to cut to pieces
@@ -34,7 +34,7 @@ The cowl variants will support a no probe setup, [SlideSwipe magnetic probe](htt
 - Revo Voron
 - Dragon SF/HF
 - DragonFly
-- Rapido HF
+- Rapido HF - Note: This will only work with the LGX Lite extruder and the RapidoHF_Extruder_Mount.stl and loses ~1.5mm on the Y axis
 
 ## Fans:
 
@@ -66,7 +66,11 @@ Will be published once released from WIP.
 
 Place brass inserts into the cowl for mounting the hotend and the adxl mount if using this.
 
-The 3010 hotend fan is meant to be press fit. If it's too tight, sand or file the opening but don't force it in otherwise it can deform and the blades will hit the casing. If it's too lose or rattles, use M3 screws to secure it through the top two holes into the cowl.
+Remove the fan duct supports carefully. Check that none of the removed plastic has fallen into the ducts:
+![supports](images/supports.png)
+
+The 3010 hotend fan is meant to be press fit. If it's too tight, sand or file the opening but don't force it in otherwise it can deform and the blades will hit the casing. If it's too lose or rattles, use M3 screws to secure it through the top two holes into the cowl. Routing of the fans cables are through the channel provided:
+![hotendfan](images/hotendfan.png)
 
 You need to remove most of the outer shell of the 5010 fan. Before doing so, please connect the fan to your MCU/toolhead board and ensure that it responds to pmw from klipper.
 
@@ -106,7 +110,7 @@ Push the diffuser/holder into the whole being careful not to dislodge the Neopix
 
 ![rgbwfit](images/rgbwfit.jpg)
 
-Affix your chosen hotend mount to your hotend. This must be done before mounting to the X carriage as the screws to the hotend will no longer be accessible. Add zip-ties to the hotend mount in advance of fitting the toolhead to the X carriage:
+Affix your chosen hotend mount to your hotend. This must be done before mounting to the X carriage as the screws to the hotend will no longer be accessible:
 
 ![hotendmount](images/hotendmount.jpg)
 
@@ -130,7 +134,10 @@ Plugin, test the fans and redo your X offset as it will probably have changed sl
 
 ## Neopixels:
 
-I'm not going to go into the wiring of the Neopixels here. Do make sure the cables interconnecting the two Neopixels is long enough to loop up both sides of the cowl and above the extruder mount at the rear.
+Make sure the cables interconnecting the two Neopixels is long enough to loop up both sides of the cowl and above the extruder mount at the rear:
+![rgbwwiring](images/rgbwwiring.png)
+
+For creating the actual wiring, refer to page 46 of the [StealthBurner manual](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/Manual/Assembly_Manual_SB.pdf)
 
 To configure the Neopixels in Klipper, I'd suggest using the [StealthBurner config file](https://github.com/VoronDesign/Voron-Afterburner/blob/sb-beta/Klipper_Macros/stealthburner_leds.cfg) and change the following to assign the two Neopixels a wider range of colour options:
 
@@ -139,7 +146,7 @@ variable_logo_idx:              "1,2"
 variable_nozzle_idx:            "3" # not used
 ```
 
-## Changelog:
+## v1 Changelog:
 
 - 2022-06-03 WIP release
 - 2022-06-04 Added support for the Voron PocketWatch 2 extruder
@@ -152,3 +159,19 @@ variable_nozzle_idx:            "3" # not used
 - 2022-06-13 Fixed the Revo Voron mount
 - 2022-06-13 Added Rapido HF mount with no loss in Z
 - 2022-07-03 Added ZeroClick support
+
+## New version 2:
+
+- Moved to Fusion 360
+- Increased and improved airflow
+- Improved heat warping protection around RGBW ducts
+- Improved cable routing
+- Improved RapidoHF support
+- Improved hotend fan push fit
+- Improved RGBW logo lighting
+- Improved RGBW installation and wiring instructions
+- 2 screw X carriage support (3rd screw was unnecessary)
+
+## v2 Changelog:
+
+- 2022-07-nn version 2 release
