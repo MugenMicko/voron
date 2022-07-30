@@ -7,6 +7,7 @@ This toolhead should not normally lose any X, Y or Z travel.
 
 ![5015_Toolhead](images/5015_toolhead.jpg)
 ![v2](images/v2.png)
+![airflow](images/airflow2.png)
 
 ## Printing:
 
