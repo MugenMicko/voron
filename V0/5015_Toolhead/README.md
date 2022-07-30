@@ -1,5 +1,5 @@
 # 5015 Toolhead
-This is a Voron V0.1 toolhead that uses the guts of a 5015 fan for part cooling and incorporates Neopixel RGBW leds. It currently works with the LGX Lite extruder and the [Voron PocketWatch 2](https://github.com/VoronDesign/Pocket-Watch).
+This is a Voron V0.1 toolhead that uses the guts of a 5015 fan for part cooling and incorporates Neopixel RGBW leds. It currently works with the LGX Lite extruder, the [Voron PocketWatch 2](https://github.com/VoronDesign/Pocket-Watch) and the [RoundHouse](https://github.com/waytotheweb/voron/tree/main/general/RoundHouse) extruder designed specifically for this hotend.
 
 It uses the standard Voron V0.1 X carriage (and the MGN9C mod X carriage), is based on the [Mini-AfterSherpa](https://github.com/KurioHonoo/Mini-AfterSherpa), but I've designed it from the ground up:
 
@@ -172,4 +172,5 @@ variable_nozzle_idx:            "3" # not used
 
 ## v2 Changelog:
 
-- 2022-07-nn version 2 release
+- 2022-07-30 Version 2 release
+- 2022-07-30 RoundHouse extruder release
