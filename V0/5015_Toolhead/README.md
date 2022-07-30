@@ -134,7 +134,7 @@ Plugin, test the fans and redo your X offset as it will probably have changed sl
 ## Neopixels:
 
 Make sure the cables interconnecting the two Neopixels is long enough to loop up both sides of the cowl and above the extruder mount at the rear:
-![rgbwwiring](images/rgbwwiring.png)
+![rgbwwiring](images/rgbwwiring.jpg)
 
 For creating the actual wiring, refer to page 46 of the [StealthBurner manual](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/Manual/Assembly_Manual_SB.pdf)
 
