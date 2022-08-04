@@ -1,7 +1,7 @@
 # 5015 Toolhead
 This is a Voron V0.1 toolhead that uses the guts of a 5015 fan for part cooling and incorporates Neopixel RGBW leds. It currently works with the LGX Lite extruder, the [Voron PocketWatch 2](https://github.com/VoronDesign/Pocket-Watch) and the [RoundHouse](https://github.com/waytotheweb/voron/tree/main/general/RoundHouse) extruder designed specifically for this hotend.
 
-It uses the standard Voron V0.1 X carriage (and the MGN9C mod X carriage), is based on the [Mini-AfterSherpa](https://github.com/KurioHonoo/Mini-AfterSherpa), but I've designed it from the ground up:
+It uses the standard Voron V0.1 X carriage (and the MGN9C mod X carriage), is inspired by the [Mini-AfterSherpa](https://github.com/KurioHonoo/Mini-AfterSherpa).
 
 This toolhead should not normally lose any X, Y or Z travel.
 
@@ -54,10 +54,6 @@ max_temp: 85
 ```
 
 Klipper will shutdown if the top of the heatsink hits 85C. You can use thermal paste to help keep a bulb thermistor in contact with the heatsink and lay the wires through the provided groove, then fitted the extruder on top to hold it in place.
-
-## CAD:
-
-Will be published once released from WIP.
 
 ## Assembly:
 
