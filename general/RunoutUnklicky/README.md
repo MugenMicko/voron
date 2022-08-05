@@ -8,8 +8,6 @@ The design uses magnets as the switch, making it easy and cheap to source BOM co
 
 ![design](images/designall.png)
 
-NOTE: This sensor is currently a Work In  Progress. The design might change, there may be issues that need addressing. Please only use this if you're happy to take the (hopefully small) risk of using it - i.e. false-positives with filament runout.
-
 ## Printing:
 
 Components:
