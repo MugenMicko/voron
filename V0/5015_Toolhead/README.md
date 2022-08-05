@@ -134,7 +134,7 @@ Make sure the cables interconnecting the two Neopixels is long enough to loop up
 
 For creating the actual wiring, refer to page 46 of the [StealthBurner manual](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/Manual/Assembly_Manual_SB.pdf)
 
-To configure the Neopixels in Klipper, I'd suggest using the [StealthBurner config file](https://github.com/VoronDesign/Voron-Afterburner/blob/sb-beta/Klipper_Macros/stealthburner_leds.cfg) and change the following to assign the two Neopixels a wider range of colour options:
+To configure the Neopixels in Klipper, I'd suggest using the [StealthBurner config file](https://github.com/VoronDesign/Voron-Stealthburner/blob/main/Firmware/stealthburner_leds.cfg) and change the following to assign the two Neopixels a wider range of colour options:
 
 ```
 variable_logo_idx:              "1,2"
