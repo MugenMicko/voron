@@ -62,12 +62,14 @@ Klipper will shutdown if the top of the heatsink hits 85C. You can use thermal p
 Place brass inserts into the cowl for mounting the hotend and the adxl mount if using this.
 
 Remove the fan duct supports carefully. Check that none of the removed plastic has fallen into the ducts:
+
 ![cowlsupports](images/cowlsupports.jpg)
 ![supports](images/supports.png)
 
 The 3010 hotend fan is meant to be press fit. If it's too tight, sand or file the opening but don't force it in otherwise it can deform and the blades will hit the casing. If it's too lose or rattles, use M3 screws to secure it through the top two holes into the cowl. Routing of the fans cables are through the channel provided:
+
 ![hotendfan](images/hotendfan.png)
-![hotendfan](images/hotendfanfit.png)
+![hotendfanfit](images/hotendfanfit.jpg)
 
 You need to remove most of the outer shell of the 5015 fan. Before doing so, please connect the fan to your MCU/toolhead board and ensure that it responds to pmw from klipper.
 
@@ -121,9 +123,11 @@ Mount the extruder on top of the hotend onto the cowl using 2 M3x20 screws to ch
 ![toolheadfit](images/toolheadfit.jpg)
 
 You can now route your cables and secure them to the cable-tie mounts provided. The following is a complete installation with the [RoundHouse](https://github.com/waytotheweb/voron/tree/main/general/RoundHouse) extruder and a custom hotend:
+
 ![completefront](images/completefront.jpg)
 
 Neopixel cable routing can be seen on these two images:
+
 ![completeback](images/completeback.jpg)
 ![completeside](images/completeside.jpg)
 
