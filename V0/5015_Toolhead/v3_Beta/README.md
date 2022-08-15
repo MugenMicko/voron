@@ -62,7 +62,7 @@ Klipper will shutdown if the top of the heatsink hits 85C. You can use thermal p
 Place brass inserts into the cowl for mounting the hotend and the adxl mount if using this.
 
 Remove the fan duct supports carefully. Check that none of the removed plastic has fallen into the ducts:
-![supports](images/cowlsupports.jpg)
+![cowlsupports](images/cowlsupports.jpg)
 ![supports](images/supports.png)
 
 The 3010 hotend fan is meant to be press fit. If it's too tight, sand or file the opening but don't force it in otherwise it can deform and the blades will hit the casing. If it's too lose or rattles, use M3 screws to secure it through the top two holes into the cowl. Routing of the fans cables are through the channel provided:
@@ -109,6 +109,7 @@ Push the diffuser/holder into the whole being careful not to dislodge the Neopix
 
 Affix your chosen hotend mount to your hotend. This must be done before mounting to the X carriage as the screws to the hotend will no longer be accessible:
 
+![hotendparts](images/hotendparts.jpg)
 ![hotendmount](images/hotendmount.jpg)
 
 Affix the extruder mount to the bottom of the extruder:
@@ -117,7 +118,13 @@ Affix the extruder mount to the bottom of the extruder:
 
 Mount the extruder on top of the hotend onto the cowl using 2 M3x20 screws to check the assembly:
 
-![testassembly](images/testassembly.jpg)
+![toolheadfit](images/toolheadfit.jpg)
+
+You can now route your cables and secure them to the cable-tie mounts provided. The following is a complete installation with the [RoundHouse](https://github.com/waytotheweb/voron/tree/main/general/RoundHouse) extruder and a custom hotend:
+![completefront](images/completefront.jpg)
+![completeback](images/completeback.jpg)
+![completeside](images/completeside.jpg)
+
 
 Remove the extruder and hotend from the cowl. Attach the hotend assembly to the X carriage using 3 M3x20mm screws.
 
