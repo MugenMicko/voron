@@ -67,6 +67,7 @@ Remove the fan duct supports carefully. Check that none of the removed plastic h
 
 The 3010 hotend fan is meant to be press fit. If it's too tight, sand or file the opening but don't force it in otherwise it can deform and the blades will hit the casing. If it's too lose or rattles, use M3 screws to secure it through the top two holes into the cowl. Routing of the fans cables are through the channel provided:
 ![hotendfan](images/hotendfan.png)
+![hotendfan](images/hotendfanfit.png)
 
 You need to remove most of the outer shell of the 5015 fan. Before doing so, please connect the fan to your MCU/toolhead board and ensure that it responds to pmw from klipper.
 
