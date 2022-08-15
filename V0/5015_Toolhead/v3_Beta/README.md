@@ -62,6 +62,7 @@ Klipper will shutdown if the top of the heatsink hits 85C. You can use thermal p
 Place brass inserts into the cowl for mounting the hotend and the adxl mount if using this.
 
 Remove the fan duct supports carefully. Check that none of the removed plastic has fallen into the ducts:
+![supports](images/cowlsupports.png)
 ![supports](images/supports.png)
 
 The 3010 hotend fan is meant to be press fit. If it's too tight, sand or file the opening but don't force it in otherwise it can deform and the blades will hit the casing. If it's too lose or rattles, use M3 screws to secure it through the top two holes into the cowl. Routing of the fans cables are through the channel provided:
