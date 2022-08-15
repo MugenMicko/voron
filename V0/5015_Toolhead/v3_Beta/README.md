@@ -122,19 +122,18 @@ Mount the extruder on top of the hotend onto the cowl using 2 M3x20 screws to ch
 
 You can now route your cables and secure them to the cable-tie mounts provided. The following is a complete installation with the [RoundHouse](https://github.com/waytotheweb/voron/tree/main/general/RoundHouse) extruder and a custom hotend:
 ![completefront](images/completefront.jpg)
+
+Neopixel cable routing can be seen on these two images:
 ![completeback](images/completeback.jpg)
 ![completeside](images/completeside.jpg)
 
+Offer up the cowl and extruder assembly to the hotend mount and secure using 2 M3x35mm screws. Be careful not to catch any wires between the surfaces and that when the toolhead moves the X and Y axis endstops are triggered. Also check that the X axis can move completely to the left:
 
-Remove the extruder and hotend from the cowl. Attach the hotend assembly to the X carriage using 3 M3x20mm screws.
+![mounted3](images/mounted3.jpg)
 
-Offer up the cowl and extruder assembly to the hotend mount and secure using 2 M3x20mm screws. Be careful not to catch any wires between the surfaces (this step needs a bit of juggling to get everything to align and fit and the wires to route correctly):
+Zip-tie the wires at the back of the assembly.
 
-![xmount](images/xmount.jpg)
-
-Zip-tie the wires to the back of the assembly.
-
-Plugin, test the fans and redo your X offset as it will probably have changed slightly.
+Plugin, test the fans and redo your X offset as it will have changed slightly.
 
 ## Neopixels:
 
