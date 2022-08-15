@@ -5,13 +5,9 @@ It uses the standard Voron V0.1 X carriage (and the MGN9C mod X carriage), is in
 
 This toolhead should not normally lose any X, Y or Z travel.
 
-![5015_Toolhead](images/5015_Toolhead.gif)
-![mounted2](images/mounted2.jpg)
+![5015_Toolhead](images/5015_toolhead.jpg)
 ![v2](images/v2.png)
-
-Computation Fluid Dynamics results:
-
-![airflow](images/airflow_v3.png)
+![airflow](images/airflow2.png)
 
 ## Printing:
 
@@ -66,14 +62,10 @@ Klipper will shutdown if the top of the heatsink hits 85C. You can use thermal p
 Place brass inserts into the cowl for mounting the hotend and the adxl mount if using this.
 
 Remove the fan duct supports carefully. Check that none of the removed plastic has fallen into the ducts:
-
-![cowlsupports](images/cowlsupports.jpg)
 ![supports](images/supports.png)
 
 The 3010 hotend fan is meant to be press fit. If it's too tight, sand or file the opening but don't force it in otherwise it can deform and the blades will hit the casing. If it's too lose or rattles, use M3 screws to secure it through the top two holes into the cowl. Routing of the fans cables are through the channel provided:
-
 ![hotendfan](images/hotendfan.png)
-![hotendfanfit](images/hotendfanfit.jpg)
 
 You need to remove most of the outer shell of the 5015 fan. Before doing so, please connect the fan to your MCU/toolhead board and ensure that it responds to pmw from klipper.
 
@@ -115,7 +107,6 @@ Push the diffuser/holder into the whole being careful not to dislodge the Neopix
 
 Affix your chosen hotend mount to your hotend. This must be done before mounting to the X carriage as the screws to the hotend will no longer be accessible:
 
-![hotendparts](images/hotendparts.jpg)
 ![hotendmount](images/hotendmount.jpg)
 
 Affix the extruder mount to the bottom of the extruder:
@@ -124,26 +115,17 @@ Affix the extruder mount to the bottom of the extruder:
 
 Mount the extruder on top of the hotend onto the cowl using 2 M3x20 screws to check the assembly:
 
-![toolheadfit](images/toolheadfit.jpg)
+![testassembly](images/testassembly.jpg)
 
-You can now route your cables and secure them to the cable-tie mounts provided.
+Remove the extruder and hotend from the cowl. Attach the hotend assembly to the X carriage using 3 M3x20mm screws.
 
-The following is a complete installation with the [RoundHouse](https://github.com/waytotheweb/voron/tree/main/general/RoundHouse) extruder and a custom hotend:
+Offer up the cowl and extruder assembly to the hotend mount and secure using 2 M3x20mm screws. Be careful not to catch any wires between the surfaces (this step needs a bit of juggling to get everything to align and fit and the wires to route correctly):
 
-![completefront](images/completefront.jpg)
+![xmount](images/xmount.jpg)
 
-Neopixel cable routing can be seen on these two images:
+Zip-tie the wires to the back of the assembly.
 
-![completeback](images/completeback.jpg)
-![completeside](images/completeside.jpg)
-
-Offer up the cowl and extruder assembly to the hotend mount and secure using 2 M3x35mm screws. Be careful not to catch any wires between the surfaces and that when the toolhead moves the X and Y axis endstops are triggered. Also check that the X axis can move completely to the left:
-
-![mounted3](images/mounted3.jpg)
-
-Zip-tie the wires at the back of the assembly.
-
-Plugin, test the fans and redo your X offset as it will have changed slightly.
+Plugin, test the fans and redo your X offset as it will probably have changed slightly.
 
 ## Neopixels:
 
