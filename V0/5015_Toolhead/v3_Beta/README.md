@@ -126,7 +126,9 @@ Mount the extruder on top of the hotend onto the cowl using 2 M3x20 screws to ch
 
 ![toolheadfit](images/toolheadfit.jpg)
 
-You can now route your cables and secure them to the cable-tie mounts provided. The following is a complete installation with the [RoundHouse](https://github.com/waytotheweb/voron/tree/main/general/RoundHouse) extruder and a custom hotend:
+You can now route your cables and secure them to the cable-tie mounts provided.
+
+The following is a complete installation with the [RoundHouse](https://github.com/waytotheweb/voron/tree/main/general/RoundHouse) extruder and a custom hotend:
 
 ![completefront](images/completefront.jpg)
 
