@@ -5,9 +5,9 @@ It uses the standard Voron V0.1 X carriage (and the MGN9C mod X carriage), is in
 
 This toolhead should not normally lose any X, Y or Z travel.
 
-![5015_Toolhead](images/5015_toolhead.jpg)
+![mounted2](images/mounted2.jpg)
 ![v2](images/v2.png)
-![airflow](images/airflow2.png)
+![airflow](images/airflow_v3.png)
 
 ## Printing:
 
