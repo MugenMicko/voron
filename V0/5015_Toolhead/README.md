@@ -113,7 +113,7 @@ Push the diffuser/holder into the whole being careful not to dislodge the Neopix
 
 ![rgbwfit](images/rgbwfit.jpg)
 
-Affix your chosen hotend mount to your hotend. This must be done before mounting to the X carriage as the screws to the hotend will no longer be accessible:
+Affix your chosen hotend mount to your hotend:
 
 ![hotendparts](images/hotendparts.jpg)
 ![hotendmount](images/hotendmount.jpg)
