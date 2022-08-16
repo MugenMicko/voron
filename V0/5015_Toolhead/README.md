@@ -23,8 +23,8 @@ Computation Fluid Dynamics results:
 
 ## BOM:
 
-- 4x M3x35mm SHCS/BHCS (2 for the hotend mount, 2 for the X carriage mount)
-- 2x M3x20mm  SHCS/BHCS (for the extruder mount)
+- 2x M3x35mm SHCS/BHCS (2 for the X carriage mount)
+- 2x M3x20mm  SHCS/BHCS (for the hotend/extruder mount)
 - 2(4)x Brass heat inserts (2 for cowl hotend mount, 2 optional for ADXL mount)
 - 1x 5015 part cooling fan that you are happy to cut to pieces
 - 1x 3010 hotend fan (24v recommended)
