@@ -131,10 +131,10 @@ Plugin, test the fans and redo your X offset as it will have changed slightly.
 ## Release v2:
 
 - Redesigned in Fusion 360
-- Integrated fand ducts
+- Integrated fan ducts
 - Separate hotend mounts
 - Redesigned part cooling fan ducts using CFD
-- Significantly better airflow for part cooling fan ducts
+- Significantly better airflow for part cooling
 - Improved cable routing
 - Improved documentation (with pictures!)
 - Improved printability of all parts
