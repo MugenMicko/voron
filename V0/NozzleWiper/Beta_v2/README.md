@@ -22,7 +22,7 @@ It uses a snap in frame clip to attach a servo that extends a bucket and brush o
 
 - 1x Micro Servo 9G Servo Motor (SG90 or MG90 - mounts are provided for both)
 - 6x M3x4x5mm Heat inserts
-- 8x M3x8mm BHCS (2 for servo joint, 2 for carrier joint, 2 for frame mount)
+- 8x M3x8mm BHCS (2 for servo joint, 2 for carrier joint, 2 for frame mount, 2 for servo mount)
 - 1x M3x10mm BHCS (for frame mount)
 - 1x M3 nut (for frame mount)
 - 1x Nozzle cleaning brush in Copper
