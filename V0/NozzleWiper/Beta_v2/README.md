@@ -138,8 +138,14 @@ You can route the cable along the extrusion. The cable should just fit through i
 
 Follow the steps in the nozzlewiper.cfg file to configure the nozzle wiper setup.
 
-## Changelog:
+## v1 Changelog:
 
-- 2022-05-04 First release
-- 2022-07-11 Added STEP CAD
-- 2022-07-25 Improved printability of STL parts
+- 
+- 
+- 
+
+## v2 Release:
+
+## v2 Changelog:
+
+- 2022-08-21 First release
