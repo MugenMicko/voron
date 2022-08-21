@@ -80,11 +80,11 @@ Fit the carrier joint to the ends of the arms:
 
 ![carrierjoint](images/carrierjoint.jpg)
 
-Attach the toolcarrier to the carrier joint using 2 M3x8mm screws:
+Attach the tool carrier to the carrier joint using 2 M3x8mm screws:
 
 ![toolcarrier](images/toolcarrier.jpg)
 
-Attach the bucket to the tool carrier and make sure it goes on and comes off freely. If there's any stiffness, sand the bucket mounts on the tool cerrier gently:
+Attach the bucket to the tool carrier and make sure it goes on and comes off freely. If there's any stiffness, sand the bucket mounts on the tool carrier gently:
 
 ![bucket](images/bucket.jpg)
 
@@ -130,7 +130,7 @@ Holding the nozzle wiper firmly in the hand by the extrusion mount, run the "NW 
 
 Shutdown the printer.
 
-Fit the Nozzle Wiper under the left Y extrusion: Feed the cable up through the provided routing on the frame mount. Then angle the frame mount into into the groove on underside of the left Y extrusion and push firmly so it snaps into place. Now screw the fitted M3x10mm on the frame mount into the extrusion. Don't overtighten, it only needs small amunt of contact to hold the Nozzle Wiper in place
+Fit the Nozzle Wiper under the left Y extrusion: Feed the cable up through the provided routing on the frame mount. Then angle the frame mount into into the groove on underside of the left Y extrusion and push firmly so it snaps into place. Now screw the fitted M3x10mm on the frame mount into the extrusion. Don't overtighten, it only needs small amount of contact to hold the Nozzle Wiper in place
 
 ![printerfit](images/printerfit.jpg)
 
@@ -147,7 +147,7 @@ Follow the steps in the nozzlewiper.cfg file to configure the nozzle wiper setup
 ## v2 Release:
 
 - Use heat inserts instead of screwing into plastic for most screws
-- Larger puge bucket
+- Larger purge bucket
 - More compact design
 - Support both SG90 and MG90 motors
 - New mounting system to support v0.1 variants, such as the Tri-Zero
