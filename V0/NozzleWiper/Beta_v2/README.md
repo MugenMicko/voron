@@ -140,11 +140,19 @@ Follow the steps in the nozzlewiper.cfg file to configure the nozzle wiper setup
 
 ## v1 Changelog:
 
-- 
-- 
-- 
+- 2022-05-04 First release
+- 2022-07-11 Added STEP CAD
+- 2022-07-25 Improved printability of STL parts
 
 ## v2 Release:
+
+- Use heat inserts instead of screwing into plastic for most screws
+- Larger puge bucket
+- More compact design
+- Support both SG90 and MG90 motors
+- New mounting system to support v0.1 variants, such as the Tri-Zero
+- Improved cable routing
+
 
 ## v2 Changelog:
 
