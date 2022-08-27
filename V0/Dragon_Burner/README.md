@@ -32,7 +32,7 @@ It uses the standard Voron X carriage, and is inspired by the [Mini-AfterSherpa]
 - 2x M3x35mm SHCS/BHCS (2 for the X carriage mount)
 - 6x M3x5x4mm heat inserts (4 for extruder mount, optional: 2 for ADXL mount)
 - 2x M3x35mm SHCS/BHCS (2 for the X carriage mount)
-- 6x M3x8mm BHCS (4 for extruder mount, optional: 2 for ADXL mount)
+- 6x M3x8mm SHCS/BHCS (4 for extruder mount, optional: 2 for ADXL mount)
 - 2x M2x10mm self tapping screws (for blower fans)
 - 2x M2x8mm BHCS and nuts (optional: to mount ADXL)
 - 2x 4010 blower fans (24v recommended)
@@ -82,7 +82,7 @@ Now slot in the second 4010 fan and use 2x M2x10mm self tapping screws to secure
 
 ![frontfans](images/frontfans.jpg)
 
-Place the hotend onto the cowl. There are two locator tabs to help align the two parts. This is only a loose fit. They will be kept together by the M3x35mm screws when mounted to the X carriage:
+Place the hotend onto the cowl. There are two locator tabs to help align the two parts. From the front use 2 M3x8mm screws to secure the cowl and the hotend mount together:
 
 ![fithotend](images/fithotend.jpg)
 
