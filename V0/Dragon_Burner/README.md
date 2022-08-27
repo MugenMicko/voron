@@ -140,4 +140,4 @@ Plugin, test the fans and redo your X offset as it will have changed slightly.
 
 ## v2 Changelog:
 
-- nnnn-nn-nn v2 released
+- 2022-08-22 v2 released
