@@ -17,7 +17,7 @@ Computation Fluid Dynamics results:
 
 - Use the Voron defaults and print in ABS or better
 - The parts are orientated correctly in the STLs
-- The cowl will have different variants for choice of probe, or no probe
+- The cowl has different variants for choice of probe, or no probe
 - Choose the mount for the specific hotend to be used
 - If using the [Voron Pocket-Watch 2](https://github.com/VoronDesign/Pocket-Watch) extruder, print the source STL's from the repository, but use the [Guts_p2_x1.stl ](STLs/Guts_p2_x1.stl) from this project instead. The Pocket-Watch is [inverted for this toolhead](images/PocketWatch2.jpg). (Note: The PTFE tube will likely pop out of the top of extruder when fully unloading filament as there is no room for the tube retainer)
 
