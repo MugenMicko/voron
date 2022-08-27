@@ -3,7 +3,7 @@ I wanted to improve the cooling of the Dragon HF hotend and provide improved par
 
 It uses the standard Voron X carriage, and is inspired by the [Mini-AfterSherpa](https://github.com/KurioHonoo/Mini-AfterSherpa)
 
-![Dragon Burner](images/v2.png)
+![Dragon Burner](images/v2.jpg)
 
 ## Features:
 
