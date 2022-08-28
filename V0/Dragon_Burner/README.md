@@ -20,7 +20,7 @@ It uses the standard Voron X carriage, and is inspired by the [Mini-AfterSherpa]
 - Mini Sherpa extruder support
 - Sailfin/Sharkfin extruder support
 - Orbiter v2 extruder support
-- RoundHouse extruder support
+- [RoundHouse extruder](https://github.com/waytotheweb/voron/tree/main/general/RoundHouse) support
 
 ### Fan support:
 - Single 3010 24v hotend cooling fan
