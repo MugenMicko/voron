@@ -14,22 +14,24 @@ It uses the standard Voron X carriage, and is inspired by the [Mini-AfterSherpa]
 - Rapido HF hotend support
 - NF Crazy hotend support
 
+
 - LGX Lite extruder support
 - Mini Sherpa extruder support
 - Sailfin/Sharkfin extruder support
 - Orbiter v2 extruder support
 
+
 - Single 3010 24v hotend cooling fan
 - Twin 4010 24v blower part cooling fans
+
 
 - [SlideSwipe magnetic probe](https://github.com/chestwood96/SlideSwipe) support
 - [(Un)Klicky Probe](https://github.com/jlas1/Klicky-Probe) support
 - [ZeroClick probe] (https://github.com/zruncho3d/ZeroClick) support
 
+
 - ADXL345 mount point and board mount
-
 - Heatsink thermistor support
-
 - Screwless hotend fan attachment
 
 ## Printing:
