@@ -12,13 +12,24 @@ It uses the standard Voron X carriage, and is inspired by the [Mini-AfterSherpa]
 - Dragonfly hotend support
 - Revo Voron hotend support
 - Rapido HF hotend support
+- NF Crazy hotend support
+
+- LGX Lite extruder support
+- Mini Sherpa extruder support
+- Sailfin/Sharkfin extruder support
+- Orbiter v2 extruder support
+
 - Single 3010 24v hotend cooling fan
 - Twin 4010 24v blower part cooling fans
+
 - [SlideSwipe magnetic probe](https://github.com/chestwood96/SlideSwipe) support
 - [(Un)Klicky Probe](https://github.com/jlas1/Klicky-Probe) support
 - [ZeroClick probe] (https://github.com/zruncho3d/ZeroClick) support
+
 - ADXL345 mount point and board mount
+
 - Heatsink thermistor support
+
 - Screwless hotend fan attachment
 
 ## Printing:
@@ -27,6 +38,8 @@ It uses the standard Voron X carriage, and is inspired by the [Mini-AfterSherpa]
 - Print the appropriate cowl for your sensor probe if you use one
 - Print the appropriate hotend mount
 - Print the extruder mount
+
+Note: If using an Orbiter v2 extruder, you will need the extruder mount and the hotend mounts from the [STL Orbiter2 subdirectory](STLs/Orbiter2).
 
 ## BOM:
 
@@ -141,3 +154,6 @@ Plugin, test the fans and redo your X offset as it will have changed slightly.
 ## v2 Changelog:
 
 - 2022-08-22 v2 released
+- 2022-08-22 Made a little more space for cabling
+- 2022-08-22 Added NF Crazy mount and cowl changes (untested)
+- 2022-08-22 Added Orbiter v2 support - mount and hotend mounts (untested)
