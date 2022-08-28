@@ -157,7 +157,7 @@ Plugin, test the fans and redo your X offset as it will have changed slightly.
 
 ## v2 Changelog:
 
-- 2022-08-22 v2 released
-- 2022-08-22 Made a little more space for cabling
-- 2022-08-22 Added NF Crazy mount and cowl changes (untested)
-- 2022-08-22 Added Orbiter v2 support - mount and hotend mounts (untested)
+- 2022-08-27 v2 released
+- 2022-08-28 Made a little more space for cabling
+- 2022-08-28 Added NF Crazy mount and cowl changes (untested)
+- 2022-08-28 Added Orbiter v2 support - mount and hotend mounts (untested)
