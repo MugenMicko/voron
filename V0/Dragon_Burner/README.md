@@ -19,6 +19,7 @@ It uses the standard Voron X carriage, and is inspired by the [Mini-AfterSherpa]
 - LGX Lite extruder support
 - Mini Sherpa extruder support
 - Sailfin/Sharkfin extruder support
+- Orbiter v1.5 extruder support
 - Orbiter v2 extruder support
 - [RoundHouse extruder](https://github.com/waytotheweb/voron/tree/main/general/RoundHouse) support
 
@@ -42,6 +43,8 @@ It uses the standard Voron X carriage, and is inspired by the [Mini-AfterSherpa]
 - Print the appropriate cowl for your sensor probe if you use one
 - Print the appropriate hotend mount
 - Print the extruder mount
+
+Note: If using an Orbiter v1.5 extruder, you will need the extruder mount and the hotend mounts from the [STL Orbiter1.5 subdirectory](STLs/Orbiter1.5). With this extruder you loose the addition of the heatbreak thermistor.
 
 Note: If using an Orbiter v2 extruder, you will need the extruder mount and the hotend mounts from the [STL Orbiter2 subdirectory](STLs/Orbiter2).
 
@@ -161,3 +164,4 @@ Plugin, test the fans and redo your X offset as it will have changed slightly.
 - 2022-08-28 Made a little more space for cabling
 - 2022-08-28 Added NF Crazy mount and cowl changes (untested)
 - 2022-08-28 Added Orbiter v2 support - mount and hotend mounts (untested)
+- 2022-08-29 Added Orbiter v1.5 support - mount and hotend mounts (untested)
