@@ -8,6 +8,9 @@ This toolhead should not lose any X, Z travel. Y axis loss depends on the hotend
 
 ![5015_Toolhead](images/5015_Toolhead.gif)
 ![mounted2](images/mounted2.jpg)
+
+v4 Beta:
+
 ![v4_front](images/v4_front.png)
 ![v4_back](images/v4_back.png)
 
