@@ -3,7 +3,7 @@ This is a Voron V0.1 toolhead that uses the guts of a 5015 fan for part cooling 
 
 It uses the standard Voron V0.1 X carriage (and the MGN9C mod X carriage), is inspired by the [Mini-AfterSherpa](https://github.com/KurioHonoo/Mini-AfterSherpa).
 
-This toolhead should not normally lose any X, Y or Z travel.
+This toolhead should not lose any X, Z travel. Y axis loss depends on the hotend with the Revo Voron losing none, but larger ones losing ~3mm.
 
 ![5015_Toolhead](images/5015_Toolhead.gif)
 ![mounted2](images/mounted2.jpg)
