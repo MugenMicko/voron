@@ -31,7 +31,7 @@ It uses the standard Voron X carriage, and is inspired by the [Mini-AfterSherpa]
 ### Probe support:
 - [SlideSwipe magnetic probe](https://github.com/chestwood96/SlideSwipe) support
 - [(Un)Klicky Probe](https://github.com/jlas1/Klicky-Probe) support
-- [ZeroClick probe] (https://github.com/zruncho3d/ZeroClick) support
+- [ZeroClick probe](https://github.com/zruncho3d/ZeroClick) support
 
 ### Extras:
 - ADXL345 mount point and board mount
