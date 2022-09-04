@@ -3,8 +3,8 @@ This toolhead for the Voron v0.1 has been specifically designed for the Rapido U
 
 It uses the standard Voron X carriage, and is inspired by the [Mini-AfterSherpa](https://github.com/KurioHonoo/Mini-AfterSherpa)
 
-![Rapido Burner](images/front.jpg)
-![Rapido Burner](images/back.png)
+![Rapid Burner](images/front.png)
+![Rapid Burner](images/back.png)
 
 ## Features:
 
