@@ -83,7 +83,7 @@ Be careful not to catch any wires between the surfaces and that when the toolhea
 
 Zip-tie the wires at the back of the assembly.
 
-Plugin, test the fans and redo your X offset as it will have changed slightly.
+Plugin, test the fans and redo your X offset as it will have changed.
 
 ## v1 Changelog:
 
