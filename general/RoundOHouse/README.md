@@ -16,9 +16,7 @@ Please Note: This is a Work In Progress and things will likely change as issues 
 
 ## BOM:
 
-- 4x M3x6 or 8mm SHCS/BHCS (for securing the front to the back of the extruder)
-- 1x M3x25mm  SHCS/BHCS (for the lever pivot)
-- 5x Brass heat inserts (4 for the mount, 1 for the lever)
+- 8x Brass heat inserts (6 for the front, 2 for the support ring)
 - 1x Orbiter v2 Extruder
 - 1x NEMA14 36mm pancake Motor with 10 tooth gear
 - 1x UM2 Collet (optional)
