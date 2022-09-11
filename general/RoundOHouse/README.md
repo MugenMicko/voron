@@ -6,8 +6,6 @@ It uses the mounts from the [Mini-AfterSherpa](https://github.com/KurioHonoo/Min
 
 ![orbfront](images/orbfront.png)
 
-![orbback](images/orbback.png)
-
 Please Note: This is a Work In Progress and things will likely change as issues are fixed and enhancements are made.
 
 
@@ -40,6 +38,8 @@ Instructions to follow...
 
 ![frontinserts](images/frontinserts.png)
 
-![supportinserts](images/supportinserts.png)
+![supportringinserts](images/supportringinserts.png)
 
 ![latch](images/latch.png)
+
+![orbback](images/orbback.png)
