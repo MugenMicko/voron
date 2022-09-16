@@ -1,13 +1,19 @@
-# 5015 Toolhead v3 (The Mailbox)
+# 5015 Toolhead v4 Beta (The Mailbox) - Images are currently for v2/3
+
 This is a Voron V0.1 toolhead that uses the guts of a 5015 fan for part cooling and incorporates Neopixel RGBW leds. It currently works with the LGX Lite extruder, the [Voron PocketWatch 2](https://github.com/VoronDesign/Pocket-Watch) and the [RoundHouse](https://github.com/waytotheweb/voron/tree/main/general/RoundHouse) extruder designed specifically for this hotend.
 
 It uses the standard Voron V0.1 X carriage (and the MGN9C mod X carriage), is inspired by the [Mini-AfterSherpa](https://github.com/KurioHonoo/Mini-AfterSherpa).
 
-This toolhead should not lose any X, Z travel. Y axis loss depends on the hotend with the Revo Voron losing none, but larger ones losing ~3mm.
+This toolhead should not lose any X, Z travel. Y axis loss depends on the hotend and bed positioning. The Revo Voron losing none, but larger hotends losing up to ~3mm.
 
 ![5015_Toolhead](images/5015_Toolhead.gif)
 ![mounted2](images/mounted2.jpg)
-![v2](images/v2.png)
+
+### v4 Beta - Front:
+![v4_front](images/v4_front.png)
+
+### v4 Beta - Back:
+![v4_back](images/v4_back.png)
 
 Computation Fluid Dynamics results:
 
@@ -37,13 +43,14 @@ The cowl variants support a no probe setup, [SlideSwipe magnetic probe](https://
 - Revo Voron
 - Dragon SF/HF
 - DragonFly
-- Rapido HF
+- Rapido HF / Mellow Crazy Dragon / Dragon UHF (without extender)
+- Mellow NF Crazy (/Mozzie)
 
 ## Fans:
 
 I am using these fans:
 
-- 24v Blower 5015: [Mellow (Pengda)](https://www.aliexpress.com/item/32844339310.html)
+- 24v Blower 5015: [Gdstime](https://www.aliexpress.com/item/32867546212.html)
 - 24v Axial 3010: [Gdstime](https://www.aliexpress.com/item/1005002857100082.html)
 
 ## Heatsink Thermistor:
@@ -207,3 +214,12 @@ variable_nozzle_idx:            "3" # not used
 ## v3 Changelog:
 
 - 2022-08-15 Version 3 release
+
+## New version 4:
+
+- Improved LED cable routing
+- Modified part cooling ducts provide more space for with wide hotends and long
+  heater cartridges, e.g. Dragonfly
+- Improved LED covers and fitting
+- Improved LED housing geometry to improve print quality
+- New Mellow NF Crazy (/Mozzy) hotend mount
