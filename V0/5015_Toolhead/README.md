@@ -1,4 +1,4 @@
-# 5015 Toolhead v4 Beta (The Mailbox) - Images are currently for v2/3
+# 5015 Toolhead v4 (The Mailbox)
 
 This is a Voron V0.1 toolhead that uses the guts of a 5015 fan for part cooling and incorporates Neopixel RGBW leds. It currently works with the LGX Lite extruder, the [Voron PocketWatch 2](https://github.com/VoronDesign/Pocket-Watch) and the [RoundHouse](https://github.com/waytotheweb/voron/tree/main/general/RoundHouse) extruder designed specifically for this hotend.
 
@@ -9,10 +9,10 @@ This toolhead should not lose any X, Z travel. Y axis loss depends on the hotend
 ![5015_Toolhead](images/5015_Toolhead.gif)
 ![mounted2](images/mounted2.jpg)
 
-### v4 Beta - Front:
+### v4 - Front:
 ![v4_front](images/v4_front.png)
 
-### v4 Beta - Back:
+### v4 - Back:
 ![v4_back](images/v4_back.png)
 
 Computation Fluid Dynamics results:
@@ -223,3 +223,7 @@ variable_nozzle_idx:            "3" # not used
 - Improved LED covers and fitting
 - Improved LED housing geometry to improve print quality
 - New Mellow NF Crazy (/Mozzy) hotend mount
+
+## v4 Changelog:
+
+- 2022-09-16 Version 4 release
