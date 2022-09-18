@@ -23,8 +23,8 @@ Please Note: This is a Work In Progress and things will likely change as issues 
 
 ## Sources:
 
-- BMG Extruder Kit, e.g. [AliExpress](https://www.aliexpress.com/item/4000021186440.html) or direct from Bondtech
-- ECAS04 Embedded Collet, e.g. [Aliexpress](https://www.aliexpress.com/item/1005002538357279.html)
+- Orbiter v2 internals which you'll probably need a complete extruder to dismantle
+- UM2 Embedded Collet, e.g. [E3D](https://e3d-online.com/products/embedded-bowden-collet-for-metal-1-75mm)
 
 ## CAD:
 
