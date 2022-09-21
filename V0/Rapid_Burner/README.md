@@ -88,3 +88,4 @@ Plugin, test the fans and redo your X offset as it will have changed.
 ## v1 Changelog:
 
 - 2022-09-04 First beta release
+- 2022-09-21 Fixed ZeroClick cowl
