@@ -165,3 +165,4 @@ Plugin, test the fans and redo your X offset as it will have changed slightly.
 - 2022-08-28 Added NF Crazy mount and cowl changes (untested)
 - 2022-08-28 Added Orbiter v2 support - mount and hotend mounts (untested)
 - 2022-08-29 Added Orbiter v1.5 support - mount and hotend mounts (untested)
+- 2022-09-21 Fixed ZeroClick cowl mount
