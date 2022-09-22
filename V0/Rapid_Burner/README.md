@@ -89,3 +89,4 @@ Plugin, test the fans and redo your X offset as it will have changed.
 
 - 2022-09-04 First beta release
 - 2022-09-21 Fixed ZeroClick cowl
+- 2022-09-22 Released bowden mount
