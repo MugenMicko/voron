@@ -227,3 +227,4 @@ variable_nozzle_idx:            "3" # not used
 ## v4 Changelog:
 
 - 2022-09-16 Version 4 release
+- 2022-09-22 Released bowden mount with strain relief and PCB mount
