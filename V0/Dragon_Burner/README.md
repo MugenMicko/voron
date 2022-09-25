@@ -167,3 +167,4 @@ Plugin, test the fans and redo your X offset as it will have changed slightly.
 - 2022-08-29 Added Orbiter v1.5 support - mount and hotend mounts (untested)
 - 2022-09-21 Fixed ZeroClick cowl mount
 - 2022-09-22 Released bowden mount
+- 2022-09-25 Updated Dragon Mount. Increased depth to better cater for X carriage screws
