@@ -228,3 +228,4 @@ variable_nozzle_idx:            "3" # not used
 
 - 2022-09-16 Version 4 release
 - 2022-09-22 Released bowden mount with strain relief and PCB mount
+- 2022-09-25 Updated Dragon Mount. Increased depth to better cater for X carriage screws
